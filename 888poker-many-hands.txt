@@ -1,0 +1,4296 @@
+#Game No : 510747042
+***** 888poker Hand History for Game 510747042 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:18:46
+Table San Luis 10 Max (Play Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: poisonkisses ( 2,626.84 )
+Seat 3: grappa3 ( 200 )
+Seat 4: maygoody ( 196 )
+Seat 6: marvela14 ( 575.10 )
+Seat 7: AKULAO ( 1,136 )
+Seat 8: lanacanes ( 729.77 )
+Seat 10: pikejpeel ( 200 )
+lanacanes posts small blind [1]
+pikejpeel posts big blind [2]
+grappa3 folds
+** Dealing down cards **
+Dealt to pikejpeel [ 8h, 4d ]
+poisonkisses calls [2]
+maygoody calls [2]
+marvela14 calls [2]
+AKULAO raises [1,136]
+lanacanes calls [728.77]
+pikejpeel folds
+poisonkisses calls [1,134]
+maygoody folds
+marvela14 folds
+** Dealing flop ** [ Qh, Jd, Ts ]
+** Dealing turn ** [ Th ]
+** Dealing river ** [ Td ]
+** Summary **
+poisonkisses shows [ Ah, Qd ]
+AKULAO shows [ 2h, 2s ]
+lanacanes shows [ Jh, 9h ]
+poisonkisses collected [ 2,191.31 ]
+poisonkisses collected [ 812.46 ]
+
+
+
+#Game No : 510747070
+***** 888poker Hand History for Game 510747070 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:19:25
+Table San Luis 10 Max (Play Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 1: poisonkisses ( 4,494.61 )
+Seat 3: grappa3 ( 200 )
+Seat 4: maygoody ( 194 )
+Seat 6: marvela14 ( 573.10 )
+Seat 10: pikejpeel ( 198 )
+poisonkisses posts small blind [1]
+grappa3 posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 6d, 9s ]
+maygoody folds
+marvela14 folds
+pikejpeel folds
+poisonkisses folds
+** Summary **
+grappa3 collected [ 3 ]
+
+
+
+#Game No : 510747083
+***** 888poker Hand History for Game 510747083 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:19:38
+Table San Luis 10 Max (Play Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: poisonkisses ( 4,493.61 )
+Seat 3: grappa3 ( 201 )
+Seat 4: maygoody ( 194 )
+Seat 6: marvela14 ( 573.10 )
+Seat 10: pikejpeel ( 198 )
+grappa3 posts small blind [1]
+maygoody posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 7c, 8h ]
+marvela14 folds
+pikejpeel calls [2]
+poisonkisses calls [2]
+grappa3 calls [1]
+maygoody checks
+** Dealing flop ** [ Qs, Kh, 9s ]
+grappa3 checks
+maygoody checks
+pikejpeel checks
+poisonkisses checks
+** Dealing turn ** [ 6h ]
+grappa3 bets [2]
+maygoody calls [2]
+pikejpeel calls [2]
+poisonkisses folds
+** Dealing river ** [ Ad ]
+grappa3 checks
+maygoody checks
+pikejpeel checks
+** Summary **
+grappa3 shows [ 8d, 9h ]
+maygoody mucks [ Jh, 3c ]
+pikejpeel mucks [ 7c, 8h ]
+grappa3 collected [ 13.30 ]
+
+
+
+#Game No : 510747107
+***** 888poker Hand History for Game 510747107 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:20:16
+Table San Luis 10 Max (Play Money)
+Seat 3 is the button
+Total number of players : 5
+Seat 1: poisonkisses ( 4,491.61 )
+Seat 3: grappa3 ( 210.30 )
+Seat 4: maygoody ( 190 )
+Seat 6: marvela14 ( 573.10 )
+Seat 10: pikejpeel ( 194 )
+maygoody posts small blind [1]
+marvela14 posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 8h, Ks ]
+pikejpeel calls [2]
+poisonkisses calls [2]
+grappa3 calls [2]
+maygoody calls [1]
+marvela14 checks
+** Dealing flop ** [ Qc, Qd, Js ]
+maygoody checks
+marvela14 checks
+pikejpeel checks
+poisonkisses checks
+grappa3 checks
+** Dealing turn ** [ Tc ]
+maygoody checks
+marvela14 checks
+pikejpeel checks
+poisonkisses bets [10]
+grappa3 calls [10]
+maygoody calls [10]
+marvela14 folds
+pikejpeel calls [10]
+** Dealing river ** [ Th ]
+maygoody checks
+pikejpeel checks
+poisonkisses checks
+grappa3 checks
+** Summary **
+maygoody shows [ Ac, Kh ]
+pikejpeel mucks [ 8h, Ks ]
+poisonkisses mucks [ Kd, 9h ]
+grappa3 mucks [ 8d, As ]
+maygoody collected [ 47.50 ]
+
+
+
+#Game No : 510747140
+***** 888poker Hand History for Game 510747140 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:21:19
+Table San Luis 10 Max (Play Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: poisonkisses ( 4,479.61 )
+Seat 3: grappa3 ( 198.30 )
+Seat 4: maygoody ( 225.50 )
+Seat 6: marvela14 ( 571.10 )
+Seat 10: pikejpeel ( 182 )
+marvela14 posts small blind [1]
+pikejpeel posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 4d, 7d ]
+poisonkisses calls [2]
+grappa3 calls [2]
+maygoody calls [2]
+marvela14 raises [11]
+pikejpeel calls [10]
+poisonkisses calls [10]
+grappa3 folds
+maygoody calls [10]
+** Dealing flop ** [ Qd, Ts, Jc ]
+marvela14 checks
+pikejpeel checks
+poisonkisses checks
+maygoody checks
+** Dealing turn ** [ 3s ]
+marvela14 checks
+pikejpeel checks
+poisonkisses bets [50]
+maygoody calls [50]
+marvela14 folds
+pikejpeel folds
+** Dealing river ** [ Kh ]
+poisonkisses bets [150]
+maygoody folds
+** Summary **
+poisonkisses collected [ 146 ]
+
+
+
+#Game No : 510747180
+***** 888poker Hand History for Game 510747180 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:22:16
+Table San Luis 10 Max (Play Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: poisonkisses ( 4,563.61 )
+Seat 3: grappa3 ( 196.30 )
+Seat 4: maygoody ( 163.50 )
+Seat 6: marvela14 ( 559.10 )
+Seat 10: pikejpeel ( 170 )
+pikejpeel posts small blind [1]
+poisonkisses posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 8s, 7c ]
+grappa3 folds
+maygoody calls [2]
+marvela14 folds
+pikejpeel calls [1]
+poisonkisses checks
+** Dealing flop ** [ 5s, 9c, 8h ]
+pikejpeel bets [2]
+poisonkisses calls [2]
+maygoody folds
+** Dealing turn ** [ 9s ]
+pikejpeel checks
+poisonkisses checks
+** Dealing river ** [ Qd ]
+pikejpeel checks
+poisonkisses checks
+** Summary **
+pikejpeel shows [ 8s, 7c ]
+poisonkisses mucks [ Td, 7h ]
+pikejpeel collected [ 9.50 ]
+
+
+
+#Game No : 510747213
+***** 888poker Hand History for Game 510747213 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:23:06
+Table San Luis 10 Max (Play Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 3: grappa3 ( 196.30 )
+Seat 4: maygoody ( 161.50 )
+Seat 6: marvela14 ( 559.10 )
+Seat 8: EmersonK13 ( 200 )
+Seat 10: pikejpeel ( 175.50 )
+grappa3 posts small blind [1]
+maygoody posts big blind [2]
+EmersonK13 posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 9s, 9c ]
+marvela14 calls [2]
+EmersonK13 checks
+pikejpeel raises [6]
+grappa3 calls [5]
+maygoody calls [4]
+marvela14 calls [4]
+EmersonK13 calls [4]
+** Dealing flop ** [ 2s, 4c, Qh ]
+grappa3 checks
+maygoody checks
+marvela14 checks
+EmersonK13 bets [11]
+pikejpeel raises [22]
+grappa3 calls [22]
+maygoody folds
+marvela14 folds
+EmersonK13 calls [11]
+** Dealing turn ** [ 7h ]
+grappa3 checks
+EmersonK13 checks
+pikejpeel checks
+** Dealing river ** [ 3d ]
+grappa3 checks
+EmersonK13 checks
+pikejpeel bets [10]
+grappa3 raises [20]
+EmersonK13 calls [20]
+pikejpeel calls [10]
+** Summary **
+grappa3 shows [ Qd, 3c ]
+EmersonK13 shows [ 4s, Qs ]
+pikejpeel mucks [ 9s, 9c ]
+EmersonK13 collected [ 152 ]
+
+
+
+#Game No : 510747289
+***** 888poker Hand History for Game 510747289 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:25:06
+Table San Luis 10 Max (Play Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 3: grappa3 ( 148.30 )
+Seat 4: maygoody ( 155.50 )
+Seat 5: Borgert123 ( 23.25 )
+Seat 6: marvela14 ( 553.10 )
+Seat 8: EmersonK13 ( 304 )
+Seat 10: pikejpeel ( 127.50 )
+maygoody posts small blind [1]
+Borgert123 posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ Js, As ]
+marvela14 calls [2]
+EmersonK13 folds
+pikejpeel raises [8]
+grappa3 calls [8]
+maygoody calls [7]
+Borgert123 folds
+marvela14 folds
+** Dealing flop ** [ Jc, Kd, 9d ]
+maygoody checks
+pikejpeel checks
+grappa3 bets [2]
+maygoody calls [2]
+pikejpeel calls [2]
+** Dealing turn ** [ 4s ]
+maygoody bets [34]
+pikejpeel calls [34]
+grappa3 folds
+** Dealing river ** [ Qs ]
+maygoody checks
+pikejpeel bets [83.50]
+maygoody calls [83.50]
+** Summary **
+maygoody shows [ Kh, Td ]
+pikejpeel shows [ Js, As ]
+maygoody collected [ 265 ]
+
+
+
+#Game No : 510747346
+***** 888poker Hand History for Game 510747346 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:26:37
+Table San Luis 10 Max (Play Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: poisonkisses ( 4,559.61 )
+Seat 2: tagaserg ( 24 )
+Seat 3: grappa3 ( 138.30 )
+Seat 4: maygoody ( 293 )
+Seat 6: marvela14 ( 551.10 )
+Seat 8: EmersonK13 ( 304 )
+marvela14 posts small blind [1]
+EmersonK13 posts big blind [2]
+poisonkisses posts dead blind [1 + 0]
+tagaserg posts dead blind [1 + 2]
+** Dealing down cards **
+poisonkisses calls [2]
+tagaserg raises [22]
+grappa3 folds
+maygoody calls [24]
+marvela14 calls [23]
+EmersonK13 folds
+poisonkisses calls [22]
+** Dealing flop ** [ 4h, 4d, 2d ]
+marvela14 checks
+poisonkisses checks
+maygoody bets [99]
+marvela14 folds
+poisonkisses folds
+** Dealing turn ** [ Qh ]
+** Dealing river ** [ Ts ]
+** Summary **
+tagaserg shows [ 5h, Js ]
+maygoody shows [ 5c, 4c ]
+maygoody collected [ 95 ]
+
+
+
+#Game No : 510747381
+***** 888poker Hand History for Game 510747381 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:27:29
+Table San Luis 10 Max (Play Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: poisonkisses ( 4,534.61 )
+Seat 3: grappa3 ( 138.30 )
+Seat 4: maygoody ( 364 )
+Seat 6: marvela14 ( 527.10 )
+Seat 8: EmersonK13 ( 302 )
+Seat 10: pikejpeel ( 200 )
+EmersonK13 posts small blind [1]
+pikejpeel posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 5s, Ks ]
+poisonkisses calls [2]
+grappa3 folds
+maygoody calls [2]
+marvela14 folds
+EmersonK13 calls [1]
+pikejpeel checks
+** Dealing flop ** [ 5d, 3h, 7s ]
+EmersonK13 checks
+pikejpeel checks
+poisonkisses checks
+maygoody checks
+** Dealing turn ** [ 4d ]
+EmersonK13 checks
+pikejpeel checks
+poisonkisses checks
+maygoody bets [8]
+EmersonK13 folds
+pikejpeel folds
+poisonkisses folds
+** Summary **
+maygoody collected [ 7.60 ]
+
+
+
+#Game No : 510747416
+***** 888poker Hand History for Game 510747416 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:28:25
+Table San Luis 10 Max (Play Money)
+Seat 8 is the button
+Total number of players : 6
+Seat 1: poisonkisses ( 4,532.61 )
+Seat 3: grappa3 ( 138.30 )
+Seat 4: maygoody ( 369.60 )
+Seat 6: marvela14 ( 527.10 )
+Seat 8: EmersonK13 ( 300 )
+Seat 10: pikejpeel ( 198 )
+pikejpeel posts small blind [1]
+poisonkisses posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 5h, Qc ]
+grappa3 calls [2]
+maygoody calls [2]
+marvela14 calls [2]
+EmersonK13 calls [2]
+pikejpeel calls [1]
+poisonkisses checks
+** Dealing flop ** [ Jd, 9c, Tc ]
+pikejpeel checks
+poisonkisses folds
+grappa3 checks
+maygoody checks
+marvela14 checks
+EmersonK13 checks
+** Dealing turn ** [ Th ]
+pikejpeel checks
+grappa3 checks
+maygoody checks
+marvela14 checks
+EmersonK13 bets [6]
+pikejpeel folds
+grappa3 calls [6]
+maygoody calls [6]
+marvela14 folds
+** Dealing river ** [ 2s ]
+grappa3 checks
+maygoody checks
+EmersonK13 checks
+** Summary **
+grappa3 shows [ 4h, Kh ]
+maygoody shows [ Ah, 8d ]
+EmersonK13 shows [ 9d, Ks ]
+EmersonK13 collected [ 28.50 ]
+
+
+
+#Game No : 510747479
+***** 888poker Hand History for Game 510747479 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:29:56
+Table San Luis 10 Max (Play Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: poisonkisses ( 4,530.61 )
+Seat 3: grappa3 ( 130.30 )
+Seat 4: maygoody ( 361.60 )
+Seat 5: Borgert123 ( 21.25 )
+Seat 6: marvela14 ( 525.10 )
+Seat 8: EmersonK13 ( 320.50 )
+Seat 10: pikejpeel ( 196 )
+poisonkisses posts small blind [1]
+grappa3 posts big blind [2]
+Borgert123 folds
+** Dealing down cards **
+Dealt to pikejpeel [ Ks, Jd ]
+maygoody calls [2]
+marvela14 calls [2]
+EmersonK13 calls [2]
+pikejpeel calls [2]
+poisonkisses calls [1]
+grappa3 checks
+** Dealing flop ** [ Jc, Qh, 6h ]
+poisonkisses checks
+grappa3 checks
+maygoody checks
+marvela14 checks
+EmersonK13 checks
+pikejpeel checks
+** Dealing turn ** [ 9d ]
+poisonkisses checks
+grappa3 bets [2]
+maygoody folds
+marvela14 folds
+EmersonK13 calls [2]
+pikejpeel calls [2]
+poisonkisses calls [2]
+** Dealing river ** [ Ts ]
+poisonkisses checks
+grappa3 bets [2]
+EmersonK13 raises [4]
+pikejpeel raises [12]
+poisonkisses folds
+grappa3 calls [10]
+EmersonK13 folds
+** Summary **
+pikejpeel shows [ Ks, Jd ]
+grappa3 mucks [ 8c, Th ]
+pikejpeel collected [ 45.60 ]
+
+
+
+#Game No : 510747549
+***** 888poker Hand History for Game 510747549 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:31:40
+Table San Luis 10 Max (Play Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 3: grappa3 ( 114.30 )
+Seat 4: maygoody ( 359.60 )
+Seat 5: Borgert123 ( 21.25 )
+Seat 6: marvela14 ( 523.10 )
+Seat 8: EmersonK13 ( 312.50 )
+Seat 10: pikejpeel ( 225.60 )
+maygoody posts small blind [1]
+Borgert123 folds
+marvela14 posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 2d, Ac ]
+EmersonK13 calls [2]
+pikejpeel calls [2]
+grappa3 calls [2]
+maygoody calls [1]
+marvela14 checks
+** Dealing flop ** [ 7c, 4s, Kc ]
+maygoody checks
+marvela14 checks
+EmersonK13 checks
+pikejpeel checks
+grappa3 checks
+** Dealing turn ** [ Ts ]
+maygoody bets [10]
+marvela14 calls [10]
+EmersonK13 folds
+pikejpeel folds
+grappa3 folds
+** Dealing river ** [ Jc ]
+maygoody checks
+marvela14 checks
+** Summary **
+maygoody shows [ 4d, 4h ]
+marvela14 mucks [ 3s, 6s ]
+maygoody collected [ 28.50 ]
+
+
+
+#Game No : 510747602
+***** 888poker Hand History for Game 510747602 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:33:01
+Table San Luis 10 Max (Play Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 3: grappa3 ( 112.30 )
+Seat 4: maygoody ( 376.10 )
+Seat 6: marvela14 ( 511.10 )
+Seat 7: nazar211 ( 200 )
+Seat 8: EmersonK13 ( 310.50 )
+Seat 10: pikejpeel ( 223.60 )
+marvela14 posts small blind [1]
+nazar211 posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 4h, 3c ]
+EmersonK13 calls [2]
+pikejpeel folds
+grappa3 calls [2]
+maygoody calls [2]
+marvela14 calls [1]
+nazar211 checks
+** Dealing flop ** [ 8s, 3h, 7s ]
+marvela14 checks
+nazar211 bets [4]
+EmersonK13 folds
+grappa3 folds
+maygoody calls [4]
+marvela14 folds
+** Dealing turn ** [ Ts ]
+nazar211 bets [2]
+maygoody folds
+** Summary **
+nazar211 collected [ 17.10 ]
+
+
+
+#Game No : 510747647
+***** 888poker Hand History for Game 510747647 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:34:02
+Table San Luis 10 Max (Play Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: 4greatgkids ( 200 )
+Seat 4: maygoody ( 370.10 )
+Seat 5: Borgert123 ( 21.25 )
+Seat 6: marvela14 ( 509.10 )
+Seat 7: nazar211 ( 211.10 )
+Seat 8: EmersonK13 ( 308.50 )
+Seat 10: pikejpeel ( 223.60 )
+nazar211 posts small blind [1]
+EmersonK13 posts big blind [2]
+4greatgkids posts big blind [2]
+Borgert123 posts dead blind [1 + 2]
+** Dealing down cards **
+Dealt to pikejpeel [ 9d, 8s ]
+pikejpeel calls [2]
+4greatgkids checks
+maygoody calls [2]
+Borgert123 raises [2]
+marvela14 folds
+nazar211 calls [3]
+EmersonK13 folds
+pikejpeel calls [2]
+4greatgkids folds
+maygoody calls [2]
+** Dealing flop ** [ Ks, 8d, 5h ]
+nazar211 checks
+pikejpeel checks
+maygoody checks
+Borgert123 checks
+** Dealing turn ** [ Td ]
+nazar211 bets [2]
+pikejpeel calls [2]
+maygoody folds
+Borgert123 calls [2]
+** Dealing river ** [ 6h ]
+nazar211 checks
+pikejpeel checks
+Borgert123 bets [14.25]
+nazar211 folds
+pikejpeel folds
+** Summary **
+Borgert123 collected [ 25.65 ]
+
+
+
+#Game No : 510747716
+***** 888poker Hand History for Game 510747716 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:35:37
+Table San Luis 10 Max (Play Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: poisonkisses ( 4,526.61 )
+Seat 2: 4greatgkids ( 198 )
+Seat 4: maygoody ( 366.10 )
+Seat 5: Borgert123 ( 39.90 )
+Seat 6: marvela14 ( 509.10 )
+Seat 7: nazar211 ( 205.10 )
+Seat 8: EmersonK13 ( 306.50 )
+Seat 10: pikejpeel ( 217.60 )
+EmersonK13 posts small blind [1]
+pikejpeel posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ Ac, Th ]
+poisonkisses calls [2]
+4greatgkids calls [2]
+maygoody calls [2]
+Borgert123 raises [13]
+marvela14 folds
+nazar211 folds
+EmersonK13 calls [12]
+pikejpeel calls [11]
+poisonkisses calls [11]
+4greatgkids folds
+maygoody calls [11]
+** Dealing flop ** [ 2h, 7h, Qs ]
+EmersonK13 checks
+pikejpeel checks
+poisonkisses bets [67]
+maygoody folds
+Borgert123 calls [26.90]
+EmersonK13 folds
+pikejpeel folds
+** Dealing turn ** [ 9s ]
+** Dealing river ** [ 8s ]
+** Summary **
+poisonkisses shows [ Qh, Ah ]
+Borgert123 shows [ 7s, 7d ]
+Borgert123 collected [ 116.80 ]
+
+
+
+#Game No : 510747763
+***** 888poker Hand History for Game 510747763 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:36:36
+Table San Luis 10 Max (Play Money)
+Seat 8 is the button
+Total number of players : 8
+Seat 1: poisonkisses ( 4,486.71 )
+Seat 2: 4greatgkids ( 196 )
+Seat 4: maygoody ( 353.10 )
+Seat 5: Borgert123 ( 116.80 )
+Seat 6: marvela14 ( 509.10 )
+Seat 7: nazar211 ( 205.10 )
+Seat 8: EmersonK13 ( 293.50 )
+Seat 10: pikejpeel ( 204.60 )
+pikejpeel posts small blind [1]
+poisonkisses posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ Qs, 5s ]
+4greatgkids folds
+maygoody calls [2]
+Borgert123 calls [2]
+marvela14 folds
+nazar211 folds
+EmersonK13 folds
+pikejpeel calls [1]
+poisonkisses checks
+** Dealing flop ** [ Ad, 9c, Td ]
+pikejpeel checks
+poisonkisses checks
+maygoody checks
+Borgert123 checks
+** Dealing turn ** [ 3d ]
+pikejpeel checks
+poisonkisses checks
+maygoody checks
+Borgert123 checks
+** Dealing river ** [ 7c ]
+pikejpeel checks
+poisonkisses checks
+maygoody checks
+Borgert123 checks
+** Summary **
+pikejpeel shows [ Qs, 5s ]
+poisonkisses shows [ 2d, Tc ]
+maygoody mucks [ Jh, 4h ]
+Borgert123 mucks [ Jc, 3s ]
+poisonkisses collected [ 7.60 ]
+
+
+
+#Game No : 510747815
+***** 888poker Hand History for Game 510747815 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:37:37
+Table San Luis 10 Max (Play Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: poisonkisses ( 4,492.31 )
+Seat 2: 4greatgkids ( 196 )
+Seat 4: maygoody ( 351.10 )
+Seat 5: Borgert123 ( 114.80 )
+Seat 6: marvela14 ( 509.10 )
+Seat 8: EmersonK13 ( 293.50 )
+Seat 10: pikejpeel ( 202.60 )
+poisonkisses posts small blind [1]
+4greatgkids posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 8s, Kd ]
+maygoody calls [2]
+Borgert123 raises [4]
+marvela14 calls [4]
+EmersonK13 calls [4]
+pikejpeel calls [4]
+poisonkisses folds
+4greatgkids calls [2]
+maygoody calls [2]
+** Dealing flop ** [ Jd, 4d, 2d ]
+4greatgkids checks
+maygoody checks
+Borgert123 bets [25]
+marvela14 folds
+EmersonK13 calls [25]
+pikejpeel calls [25]
+4greatgkids folds
+maygoody calls [25]
+** Dealing turn ** [ 6h ]
+maygoody checks
+Borgert123 bets [62.50]
+EmersonK13 calls [62.50]
+pikejpeel calls [62.50]
+maygoody folds
+** Dealing river ** [ 9c ]
+Borgert123 bets [23.30]
+EmersonK13 calls [23.30]
+pikejpeel folds
+** Summary **
+Borgert123 shows [ Qd, 7d ]
+EmersonK13 shows [ 4c, 4h ]
+Borgert123 collected [ 355.10 ]
+
+
+
+#Game No : 510747879
+***** 888poker Hand History for Game 510747879 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:39:00
+Table San Luis 10 Max (Play Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: poisonkisses ( 4,491.31 )
+Seat 2: 4greatgkids ( 192 )
+Seat 4: maygoody ( 322.10 )
+Seat 5: Borgert123 ( 355.10 )
+Seat 6: marvela14 ( 505.10 )
+Seat 8: EmersonK13 ( 178.70 )
+Seat 10: pikejpeel ( 111.10 )
+4greatgkids posts small blind [1]
+maygoody posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ Qh, Ad ]
+Borgert123 raises [4]
+marvela14 folds
+EmersonK13 calls [4]
+pikejpeel calls [4]
+poisonkisses folds
+4greatgkids calls [3]
+maygoody calls [2]
+** Dealing flop ** [ 8s, 5s, 8c ]
+4greatgkids checks
+maygoody checks
+Borgert123 checks
+EmersonK13 checks
+pikejpeel checks
+** Dealing turn ** [ 5h ]
+4greatgkids checks
+maygoody checks
+Borgert123 checks
+EmersonK13 checks
+pikejpeel bets [2]
+4greatgkids folds
+maygoody folds
+Borgert123 folds
+EmersonK13 folds
+** Summary **
+pikejpeel collected [ 19 ]
+
+
+
+#Game No : 510747922
+***** 888poker Hand History for Game 510747922 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:39:57
+Table San Luis 10 Max (Play Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: poisonkisses ( 4,491.31 )
+Seat 2: 4greatgkids ( 188 )
+Seat 4: maygoody ( 318.10 )
+Seat 5: Borgert123 ( 351.10 )
+Seat 6: marvela14 ( 505.10 )
+Seat 8: EmersonK13 ( 174.70 )
+Seat 10: pikejpeel ( 126.10 )
+maygoody posts small blind [1]
+Borgert123 folds
+marvela14 posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 9c, Ad ]
+EmersonK13 calls [2]
+pikejpeel calls [2]
+poisonkisses folds
+4greatgkids calls [2]
+maygoody calls [1]
+marvela14 checks
+** Dealing flop ** [ 2s, 5s, Th ]
+maygoody checks
+marvela14 checks
+EmersonK13 checks
+pikejpeel checks
+4greatgkids checks
+** Dealing turn ** [ 2d ]
+maygoody bets [10]
+marvela14 folds
+EmersonK13 calls [10]
+pikejpeel folds
+4greatgkids folds
+** Dealing river ** [ 8d ]
+maygoody bets [30]
+EmersonK13 calls [30]
+** Summary **
+maygoody shows [ Ts, 5c ]
+EmersonK13 shows [ Jc, Jh ]
+EmersonK13 collected [ 86 ]
+
+
+
+#Game No : 510747974
+***** 888poker Hand History for Game 510747974 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:41:11
+Table San Luis 10 Max (Play Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 2: 4greatgkids ( 186 )
+Seat 4: maygoody ( 276.10 )
+Seat 6: marvela14 ( 503.10 )
+Seat 7: elbebesiber ( 11.50 )
+Seat 8: EmersonK13 ( 218.70 )
+Seat 10: pikejpeel ( 124.10 )
+marvela14 posts small blind [1]
+elbebesiber posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 4h, 2s ]
+EmersonK13 calls [2]
+pikejpeel folds
+4greatgkids folds
+maygoody calls [2]
+marvela14 folds
+elbebesiber raises [9.50]
+EmersonK13 calls [9.50]
+maygoody calls [9.50]
+** Dealing flop ** [ Jh, Qh, 3d ]
+EmersonK13 bets [2]
+maygoody calls [2]
+** Dealing turn ** [ Kd ]
+EmersonK13 checks
+maygoody bets [39.50]
+EmersonK13 folds
+** Dealing river ** [ 7s ]
+** Summary **
+maygoody shows [ 9d, Th ]
+elbebesiber shows [ 3h, Ah ]
+maygoody collected [ 33.75 ]
+maygoody collected [ 3.80 ]
+
+
+
+#Game No : 510748008
+***** 888poker Hand History for Game 510748008 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:41:55
+Table San Luis 10 Max (Play Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 2: 4greatgkids ( 186 )
+Seat 4: maygoody ( 300.15 )
+Seat 5: Borgert123 ( 351.10 )
+Seat 6: marvela14 ( 502.10 )
+Seat 8: EmersonK13 ( 205.20 )
+Seat 10: pikejpeel ( 124.10 )
+EmersonK13 posts small blind [1]
+pikejpeel posts big blind [2]
+Borgert123 posts dead blind [1 + 2]
+** Dealing down cards **
+Dealt to pikejpeel [ 6h, 3h ]
+4greatgkids calls [2]
+maygoody calls [2]
+Borgert123 raises [10]
+marvela14 folds
+EmersonK13 folds
+pikejpeel folds
+4greatgkids folds
+maygoody calls [10]
+** Dealing flop ** [ 3s, Qh, As ]
+maygoody checks
+Borgert123 bets [30]
+maygoody calls [30]
+** Dealing turn ** [ 7h ]
+maygoody checks
+Borgert123 bets [308.10]
+maygoody calls [258.15]
+** Dealing river ** [ 9s ]
+** Summary **
+maygoody shows [ Ah, Td ]
+Borgert123 shows [ 6s, 4c ]
+maygoody collected [ 602.30 ]
+
+
+
+#Game No : 510748041
+***** 888poker Hand History for Game 510748041 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:42:39
+Table San Luis 10 Max (Play Money)
+Seat 8 is the button
+Total number of players : 6
+Seat 2: 4greatgkids ( 184 )
+Seat 4: maygoody ( 602.30 )
+Seat 5: Borgert123 ( 49.95 )
+Seat 6: marvela14 ( 502.10 )
+Seat 8: EmersonK13 ( 204.20 )
+Seat 10: pikejpeel ( 122.10 )
+pikejpeel posts small blind [1]
+4greatgkids posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 8s, 9c ]
+maygoody calls [2]
+Borgert123 raises [49.95]
+marvela14 folds
+EmersonK13 folds
+pikejpeel folds
+4greatgkids folds
+maygoody calls [47.95]
+** Dealing flop ** [ Qs, Td, 5c ]
+** Dealing turn ** [ 2c ]
+** Dealing river ** [ 7s ]
+** Summary **
+maygoody shows [ Jc, Kd ]
+Borgert123 shows [ Ah, 3h ]
+Borgert123 collected [ 98.90 ]
+
+
+
+#Game No : 510748068
+***** 888poker Hand History for Game 510748068 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:43:15
+Table San Luis 10 Max (Play Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 2: 4greatgkids ( 182 )
+Seat 4: maygoody ( 552.35 )
+Seat 5: Borgert123 ( 98.90 )
+Seat 6: marvela14 ( 502.10 )
+Seat 10: pikejpeel ( 121.10 )
+4greatgkids posts small blind [1]
+maygoody posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ Qd, 8s ]
+Borgert123 raises [98.90]
+marvela14 folds
+pikejpeel folds
+4greatgkids folds
+maygoody calls [96.90]
+** Dealing flop ** [ 9h, Jd, Th ]
+** Dealing turn ** [ 8h ]
+** Dealing river ** [ Jc ]
+** Summary **
+maygoody shows [ As, 9c ]
+Borgert123 shows [ 3c, 2d ]
+maygoody collected [ 194.80 ]
+
+
+
+#Game No : 510748089
+***** 888poker Hand History for Game 510748089 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:43:44
+Table San Luis 10 Max (Play Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: 4greatgkids ( 181 )
+Seat 4: maygoody ( 648.25 )
+Seat 6: marvela14 ( 502.10 )
+Seat 10: pikejpeel ( 121.10 )
+maygoody posts small blind [1]
+marvela14 posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 8h, Kd ]
+pikejpeel calls [2]
+4greatgkids calls [2]
+maygoody calls [1]
+marvela14 checks
+** Dealing flop ** [ 4s, 3h, 5c ]
+maygoody checks
+marvela14 checks
+pikejpeel checks
+4greatgkids checks
+** Dealing turn ** [ Tc ]
+maygoody checks
+marvela14 checks
+pikejpeel checks
+4greatgkids checks
+** Dealing river ** [ 8d ]
+maygoody checks
+marvela14 bets [28]
+pikejpeel calls [28]
+4greatgkids folds
+maygoody folds
+** Summary **
+marvela14 shows [ 4c, 8s ]
+pikejpeel mucks [ 8h, Kd ]
+marvela14 collected [ 60.80 ]
+
+
+
+#Game No : 510748121
+***** 888poker Hand History for Game 510748121 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:44:31
+Table San Luis 10 Max (Play Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 2: 4greatgkids ( 179 )
+Seat 4: maygoody ( 646.25 )
+Seat 6: marvela14 ( 532.90 )
+Seat 10: pikejpeel ( 91.10 )
+marvela14 posts small blind [1]
+pikejpeel posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 3h, 6s ]
+4greatgkids calls [2]
+maygoody calls [2]
+marvela14 calls [1]
+pikejpeel checks
+** Dealing flop ** [ 8h, 4d, Qh ]
+marvela14 checks
+pikejpeel checks
+4greatgkids checks
+maygoody checks
+** Dealing turn ** [ 6c ]
+marvela14 checks
+pikejpeel bets [2]
+4greatgkids calls [2]
+maygoody folds
+marvela14 folds
+** Dealing river ** [ 2d ]
+pikejpeel bets [2]
+4greatgkids calls [2]
+** Summary **
+pikejpeel shows [ 3h, 6s ]
+4greatgkids shows [ 9c, 8s ]
+4greatgkids collected [ 15.20 ]
+
+
+
+#Game No : 510748156
+***** 888poker Hand History for Game 510748156 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:45:15
+Table San Luis 10 Max (Play Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 2: 4greatgkids ( 188.20 )
+Seat 4: maygoody ( 644.25 )
+Seat 6: marvela14 ( 530.90 )
+Seat 10: pikejpeel ( 85.10 )
+pikejpeel posts small blind [1]
+4greatgkids posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 3s, 7s ]
+maygoody calls [2]
+marvela14 folds
+pikejpeel calls [1]
+4greatgkids checks
+** Dealing flop ** [ 8c, Jc, 2s ]
+pikejpeel checks
+4greatgkids checks
+maygoody checks
+** Dealing turn ** [ Kc ]
+pikejpeel checks
+4greatgkids checks
+maygoody checks
+** Dealing river ** [ Ks ]
+pikejpeel checks
+4greatgkids checks
+maygoody checks
+** Summary **
+pikejpeel shows [ 3s, 7s ]
+4greatgkids shows [ Qh, Th ]
+maygoody mucks [ 5h, 3h ]
+4greatgkids collected [ 5.70 ]
+
+
+
+#Game No : 510748178
+***** 888poker Hand History for Game 510748178 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:45:48
+Table San Luis 10 Max (Play Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 2: 4greatgkids ( 191.90 )
+Seat 4: maygoody ( 642.25 )
+Seat 6: marvela14 ( 530.90 )
+Seat 10: pikejpeel ( 83.10 )
+4greatgkids posts small blind [1]
+maygoody posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 9c, 4s ]
+marvela14 folds
+pikejpeel folds
+4greatgkids calls [1]
+maygoody checks
+** Dealing flop ** [ 7c, Ts, 8s ]
+4greatgkids checks
+maygoody checks
+** Dealing turn ** [ 7h ]
+4greatgkids checks
+maygoody checks
+** Dealing river ** [ 6c ]
+4greatgkids bets [4]
+maygoody calls [4]
+** Summary **
+4greatgkids shows [ 9h, Ad ]
+maygoody mucks [ Qc, Td ]
+4greatgkids collected [ 11.40 ]
+
+
+
+#Game No : 510748203
+***** 888poker Hand History for Game 510748203 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:46:23
+Table San Luis 10 Max (Play Money)
+Seat 2 is the button
+Total number of players : 3
+Seat 2: 4greatgkids ( 197.30 )
+Seat 4: maygoody ( 636.25 )
+Seat 10: pikejpeel ( 83.10 )
+maygoody posts small blind [1]
+pikejpeel posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 5d, Th ]
+4greatgkids calls [2]
+maygoody calls [1]
+pikejpeel checks
+** Dealing flop ** [ Td, 8c, Tc ]
+maygoody checks
+pikejpeel checks
+4greatgkids bets [2]
+maygoody folds
+pikejpeel raises [4]
+4greatgkids calls [2]
+** Dealing turn ** [ Ks ]
+pikejpeel bets [8]
+4greatgkids calls [8]
+** Dealing river ** [ 6s ]
+pikejpeel bets [12]
+4greatgkids calls [12]
+** Summary **
+pikejpeel shows [ 5d, Th ]
+4greatgkids mucks [ Jc, Jh ]
+pikejpeel collected [ 51.30 ]
+
+
+
+#Game No : 510748231
+***** 888poker Hand History for Game 510748231 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:47:01
+Table San Luis 10 Max (Play Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 2: 4greatgkids ( 171.30 )
+Seat 3: ninoshady ( 200 )
+Seat 4: maygoody ( 634.25 )
+Seat 10: pikejpeel ( 108.40 )
+pikejpeel posts small blind [1]
+4greatgkids posts big blind [2]
+ninoshady posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 7c, Td ]
+ninoshady checks
+maygoody calls [2]
+pikejpeel calls [1]
+4greatgkids checks
+** Dealing flop ** [ 2d, 6d, 5h ]
+pikejpeel checks
+4greatgkids checks
+ninoshady checks
+maygoody checks
+** Dealing turn ** [ 7d ]
+pikejpeel bets [2]
+4greatgkids calls [2]
+ninoshady calls [2]
+maygoody calls [2]
+** Dealing river ** [ 2c ]
+pikejpeel bets [2]
+4greatgkids calls [2]
+ninoshady calls [2]
+maygoody folds
+** Summary **
+pikejpeel shows [ 7c, Td ]
+4greatgkids mucks [ 6s, 5c ]
+ninoshady mucks [ 4d, 5s ]
+pikejpeel collected [ 20.90 ]
+
+
+
+#Game No : 510748267
+***** 888poker Hand History for Game 510748267 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:47:54
+Table San Luis 10 Max (Play Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 2: 4greatgkids ( 165.30 )
+Seat 3: ninoshady ( 194 )
+Seat 4: maygoody ( 630.25 )
+Seat 10: pikejpeel ( 123.30 )
+4greatgkids posts small blind [1]
+ninoshady posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ Ts, 7s ]
+maygoody calls [2]
+pikejpeel raises [4]
+4greatgkids calls [3]
+ninoshady calls [2]
+maygoody calls [2]
+** Dealing flop ** [ Ah, 7h, 5s ]
+4greatgkids checks
+ninoshady checks
+maygoody checks
+pikejpeel bets [6]
+4greatgkids calls [6]
+ninoshady folds
+maygoody calls [6]
+** Dealing turn ** [ 6d ]
+4greatgkids checks
+maygoody bets [34]
+pikejpeel folds
+4greatgkids folds
+** Summary **
+maygoody collected [ 32.30 ]
+
+
+
+#Game No : 510748300
+***** 888poker Hand History for Game 510748300 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:48:47
+Table San Luis 10 Max (Play Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: 4greatgkids ( 155.30 )
+Seat 3: ninoshady ( 190 )
+Seat 4: maygoody ( 652.55 )
+Seat 10: pikejpeel ( 113.30 )
+ninoshady posts small blind [1]
+maygoody posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 7s, Jh ]
+pikejpeel folds
+4greatgkids calls [2]
+ninoshady calls [1]
+maygoody checks
+** Dealing flop ** [ 3d, 7c, 3h ]
+ninoshady bets [2]
+maygoody calls [2]
+4greatgkids calls [2]
+** Dealing turn ** [ 2h ]
+ninoshady bets [2]
+maygoody folds
+4greatgkids calls [2]
+** Dealing river ** [ 9d ]
+ninoshady bets [2]
+4greatgkids calls [2]
+** Summary **
+ninoshady shows [ 3c, 2c ]
+4greatgkids mucks [ 7d, 8h ]
+ninoshady collected [ 19 ]
+
+
+
+#Game No : 510748328
+***** 888poker Hand History for Game 510748328 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:49:28
+Table San Luis 10 Max (Play Money)
+Seat 3 is the button
+Total number of players : 5
+Seat 2: 4greatgkids ( 147.30 )
+Seat 3: ninoshady ( 201 )
+Seat 4: maygoody ( 648.55 )
+Seat 5: OEvgeniy ( 200 )
+Seat 10: pikejpeel ( 113.30 )
+maygoody posts small blind [1]
+OEvgeniy posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 6s, 8s ]
+pikejpeel calls [2]
+4greatgkids calls [2]
+ninoshady calls [2]
+maygoody calls [1]
+OEvgeniy checks
+** Dealing flop ** [ 4s, Jd, 3h ]
+maygoody checks
+OEvgeniy checks
+pikejpeel checks
+4greatgkids checks
+ninoshady checks
+** Dealing turn ** [ 2s ]
+maygoody checks
+OEvgeniy bets [104]
+pikejpeel folds
+4greatgkids folds
+ninoshady folds
+maygoody folds
+** Summary **
+OEvgeniy collected [ 9.50 ]
+
+
+
+#Game No : 510748363
+***** 888poker Hand History for Game 510748363 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:50:12
+Table San Luis 10 Max (Play Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 2: 4greatgkids ( 145.30 )
+Seat 3: ninoshady ( 199 )
+Seat 4: maygoody ( 646.55 )
+Seat 5: OEvgeniy ( 207.50 )
+Seat 7: TheFakeGod ( 200 )
+Seat 10: pikejpeel ( 111.30 )
+OEvgeniy posts small blind [1]
+TheFakeGod posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 8c, Kh ]
+pikejpeel calls [2]
+4greatgkids calls [2]
+ninoshady folds
+maygoody calls [2]
+OEvgeniy calls [1]
+TheFakeGod raises [2]
+pikejpeel calls [2]
+4greatgkids calls [2]
+maygoody calls [2]
+OEvgeniy calls [2]
+** Dealing flop ** [ Ad, 6c, Ts ]
+OEvgeniy checks
+TheFakeGod checks
+pikejpeel checks
+4greatgkids checks
+maygoody checks
+** Dealing turn ** [ 8d ]
+OEvgeniy checks
+TheFakeGod checks
+pikejpeel bets [10]
+4greatgkids folds
+maygoody folds
+OEvgeniy folds
+TheFakeGod calls [10]
+** Dealing river ** [ 3d ]
+TheFakeGod checks
+pikejpeel bets [10]
+TheFakeGod raises [186]
+pikejpeel folds
+** Summary **
+TheFakeGod collected [ 57 ]
+
+
+
+#Game No : 510748419
+***** 888poker Hand History for Game 510748419 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:51:29
+Table San Luis 10 Max (Play Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 2: 4greatgkids ( 141.30 )
+Seat 4: maygoody ( 642.55 )
+Seat 5: OEvgeniy ( 203.50 )
+Seat 7: TheFakeGod ( 233 )
+Seat 8: banejapundza ( 200 )
+Seat 10: pikejpeel ( 87.30 )
+TheFakeGod posts small blind [1]
+banejapundza posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ As, 8d ]
+pikejpeel calls [2]
+4greatgkids folds
+maygoody calls [2]
+OEvgeniy calls [2]
+TheFakeGod raises [3]
+banejapundza calls [2]
+pikejpeel folds
+maygoody calls [2]
+OEvgeniy calls [2]
+** Dealing flop ** [ 4s, 2d, Tc ]
+TheFakeGod checks
+banejapundza checks
+maygoody checks
+OEvgeniy checks
+** Dealing turn ** [ Kd ]
+TheFakeGod checks
+banejapundza checks
+maygoody checks
+OEvgeniy checks
+** Dealing river ** [ Ad ]
+TheFakeGod checks
+banejapundza bets [196]
+maygoody calls [196]
+OEvgeniy folds
+TheFakeGod folds
+** Summary **
+maygoody shows [ 6d, 4d ]
+banejapundza shows [ 7d, Ac ]
+maygoody collected [ 406 ]
+
+
+
+#Game No : 510748476
+***** 888poker Hand History for Game 510748476 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:52:53
+Table San Luis 10 Max (Play Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: 4greatgkids ( 141.30 )
+Seat 4: maygoody ( 848.55 )
+Seat 5: OEvgeniy ( 199.50 )
+Seat 10: pikejpeel ( 85.30 )
+pikejpeel posts small blind [1]
+4greatgkids posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ Ad, Jd ]
+maygoody calls [2]
+OEvgeniy calls [2]
+pikejpeel raises [5]
+4greatgkids folds
+maygoody calls [4]
+OEvgeniy calls [4]
+** Dealing flop ** [ 6c, 9d, 7d ]
+pikejpeel bets [8]
+maygoody calls [8]
+OEvgeniy calls [8]
+** Dealing turn ** [ Qh ]
+pikejpeel bets [16]
+maygoody calls [16]
+OEvgeniy calls [16]
+** Dealing river ** [ 5h ]
+pikejpeel checks
+maygoody checks
+OEvgeniy bets [116]
+pikejpeel folds
+maygoody folds
+** Summary **
+OEvgeniy collected [ 88 ]
+
+
+
+#Game No : 510748518
+***** 888poker Hand History for Game 510748518 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:53:56
+Table San Luis 10 Max (Play Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 4: maygoody ( 818.55 )
+Seat 5: OEvgeniy ( 257.50 )
+Seat 6: marvela14 ( 530.90 )
+Seat 8: banejapundza ( 200 )
+Seat 10: pikejpeel ( 55.30 )
+maygoody posts small blind [1]
+OEvgeniy posts big blind [2]
+marvela14 posts dead blind [1 + 2]
+banejapundza posts dead blind [1 + 0]
+** Dealing down cards **
+Dealt to pikejpeel [ Jc, 5s ]
+marvela14 raises [2]
+banejapundza calls [4]
+pikejpeel folds
+maygoody calls [3]
+OEvgeniy raises [255.50]
+marvela14 raises [525.90]
+banejapundza calls [195]
+maygoody folds
+** Dealing flop ** [ 3c, 6c, 8s ]
+** Dealing turn ** [ Jh ]
+** Dealing river ** [ 2s ]
+** Summary **
+OEvgeniy shows [ 4c, 4d ]
+marvela14 shows [ As, Ac ]
+banejapundza shows [ Tc, Kd ]
+marvela14 collected [ 599 ]
+marvela14 collected [ 117 ]
+
+
+
+#Game No : 510748548
+***** 888poker Hand History for Game 510748548 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:54:45
+Table San Luis 10 Max (Play Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 4: maygoody ( 814.55 )
+Seat 6: marvela14 ( 988.40 )
+Seat 10: pikejpeel ( 55.30 )
+marvela14 posts small blind [1]
+pikejpeel posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 4s, 5h ]
+maygoody calls [2]
+marvela14 folds
+pikejpeel checks
+** Dealing flop ** [ 4c, 6h, 2d ]
+pikejpeel checks
+maygoody checks
+** Dealing turn ** [ Js ]
+pikejpeel bets [2]
+maygoody folds
+** Summary **
+pikejpeel did not show his hand
+pikejpeel collected [ 4.75 ]
+
+
+
+#Game No : 510748570
+***** 888poker Hand History for Game 510748570 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:55:24
+Table San Luis 10 Max (Play Money)
+Seat 6 is the button
+Total number of players : 3
+Seat 4: maygoody ( 812.55 )
+Seat 6: marvela14 ( 987.40 )
+Seat 10: pikejpeel ( 58.05 )
+pikejpeel posts small blind [1]
+maygoody posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 3c, 3h ]
+marvela14 folds
+pikejpeel raises [3]
+maygoody calls [2]
+** Dealing flop ** [ Ad, Td, Jc ]
+pikejpeel bets [2]
+maygoody folds
+** Summary **
+pikejpeel did not show his hand
+pikejpeel collected [ 7.60 ]
+
+
+
+#Game No : 510748592
+***** 888poker Hand History for Game 510748592 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:55:54
+Table San Luis 10 Max (Play Money)
+Seat 10 is the button
+Total number of players : 3
+Seat 4: maygoody ( 808.55 )
+Seat 6: marvela14 ( 987.40 )
+Seat 10: pikejpeel ( 61.65 )
+maygoody posts small blind [1]
+marvela14 posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ Ts, Th ]
+pikejpeel raises [4]
+maygoody folds
+marvela14 calls [2]
+** Dealing flop ** [ Qs, 8s, 2s ]
+marvela14 checks
+pikejpeel bets [6]
+marvela14 raises [12]
+pikejpeel calls [6]
+** Dealing turn ** [ 5c ]
+marvela14 checks
+pikejpeel checks
+** Dealing river ** [ 3s ]
+marvela14 checks
+pikejpeel bets [12]
+marvela14 calls [12]
+** Summary **
+pikejpeel shows [ Ts, Th ]
+marvela14 mucks [ Ac, 7s ]
+pikejpeel collected [ 54.15 ]
+
+
+
+#Game No : 510748628
+***** 888poker Hand History for Game 510748628 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:56:49
+Table San Luis 10 Max (Play Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 4: maygoody ( 807.55 )
+Seat 6: marvela14 ( 959.40 )
+Seat 7: epiktet87 ( 200 )
+Seat 10: pikejpeel ( 87.80 )
+marvela14 posts small blind [1]
+epiktet87 posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 4d, 2d ]
+pikejpeel calls [2]
+maygoody calls [2]
+marvela14 calls [1]
+epiktet87 checks
+** Dealing flop ** [ 5c, 4c, 3d ]
+marvela14 checks
+epiktet87 checks
+pikejpeel bets [6]
+maygoody folds
+marvela14 calls [6]
+epiktet87 folds
+** Dealing turn ** [ 5d ]
+marvela14 checks
+pikejpeel bets [12]
+marvela14 calls [12]
+** Dealing river ** [ 7d ]
+marvela14 bets [90]
+pikejpeel calls [67.80]
+** Summary **
+marvela14 shows [ Js, 6d ]
+pikejpeel shows [ 4d, 2d ]
+pikejpeel collected [ 175.60 ]
+
+
+
+#Game No : 510748669
+***** 888poker Hand History for Game 510748669 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:57:51
+Table San Luis 10 Max (Play Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 4: maygoody ( 805.55 )
+Seat 6: marvela14 ( 871.60 )
+Seat 7: epiktet87 ( 198 )
+Seat 10: pikejpeel ( 175.60 )
+epiktet87 posts small blind [1]
+pikejpeel posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 3d, 5c ]
+maygoody calls [2]
+marvela14 raises [72]
+epiktet87 folds
+pikejpeel folds
+maygoody folds
+** Summary **
+marvela14 did not show his hand
+marvela14 collected [ 7 ]
+
+
+
+#Game No : 510748677
+***** 888poker Hand History for Game 510748677 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:58:07
+Table San Luis 10 Max (Play Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 4: maygoody ( 803.55 )
+Seat 6: marvela14 ( 876.60 )
+Seat 7: epiktet87 ( 197 )
+Seat 10: pikejpeel ( 173.60 )
+pikejpeel posts small blind [1]
+maygoody posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ Ks, 6s ]
+marvela14 folds
+epiktet87 folds
+pikejpeel calls [1]
+maygoody checks
+** Dealing flop ** [ 3h, 2c, Kc ]
+pikejpeel bets [6]
+maygoody folds
+** Summary **
+pikejpeel collected [ 3.80 ]
+
+
+
+#Game No : 510748696
+***** 888poker Hand History for Game 510748696 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:58:38
+Table San Luis 10 Max (Play Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 4: maygoody ( 801.55 )
+Seat 5: pts50 ( 30 )
+Seat 6: marvela14 ( 876.60 )
+Seat 7: epiktet87 ( 197 )
+Seat 8: REDverdRED ( 200 )
+Seat 10: pikejpeel ( 175.40 )
+maygoody posts small blind [1]
+pts50 posts big blind [2]
+REDverdRED posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 9c, 8s ]
+marvela14 folds
+epiktet87 calls [2]
+REDverdRED checks
+pikejpeel folds
+maygoody calls [1]
+pts50 raises [28]
+epiktet87 folds
+REDverdRED folds
+maygoody calls [28]
+** Dealing flop ** [ Td, 8d, Jh ]
+** Dealing turn ** [ 2h ]
+** Dealing river ** [ 7c ]
+** Summary **
+maygoody shows [ Ad, 4h ]
+pts50 shows [ Qh, Tc ]
+pts50 collected [ 60.80 ]
+
+
+
+#Game No : 510748724
+***** 888poker Hand History for Game 510748724 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 22:59:31
+Table San Luis 10 Max (Play Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 4: maygoody ( 771.55 )
+Seat 5: pts50 ( 60.80 )
+Seat 6: marvela14 ( 876.60 )
+Seat 7: epiktet87 ( 195 )
+pts50 posts small blind [1]
+marvela14 posts big blind [2]
+** Dealing down cards **
+epiktet87 calls [2]
+maygoody folds
+pts50 raises [59.80]
+marvela14 folds
+epiktet87 folds
+** Summary **
+pts50 collected [ 6 ]
+
+
+
+#Game No : 510748746
+***** 888poker Hand History for Game 510748746 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:00:06
+Table San Luis 10 Max (Play Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 4: maygoody ( 771.55 )
+Seat 5: pts50 ( 64.80 )
+Seat 6: marvela14 ( 874.60 )
+Seat 7: epiktet87 ( 193 )
+Seat 8: romariocr7 ( 200 )
+Seat 10: pikejpeel ( 175.40 )
+marvela14 posts small blind [1]
+epiktet87 posts big blind [2]
+romariocr7 posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ Th, 5s ]
+romariocr7 checks
+pikejpeel folds
+maygoody calls [2]
+pts50 raises [64.80]
+marvela14 folds
+epiktet87 folds
+romariocr7 folds
+maygoody folds
+** Summary **
+pts50 collected [ 9 ]
+
+
+
+#Game No : 510748765
+***** 888poker Hand History for Game 510748765 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:00:37
+Table San Luis 10 Max (Play Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 4: maygoody ( 769.55 )
+Seat 5: pts50 ( 71.80 )
+Seat 6: marvela14 ( 873.60 )
+Seat 7: epiktet87 ( 191 )
+Seat 8: romariocr7 ( 198 )
+Seat 10: pikejpeel ( 175.40 )
+epiktet87 posts small blind [1]
+romariocr7 posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ Td, Ad ]
+pikejpeel calls [2]
+maygoody calls [2]
+pts50 calls [2]
+marvela14 folds
+epiktet87 folds
+romariocr7 checks
+** Dealing flop ** [ Qs, 6h, 5h ]
+romariocr7 checks
+pikejpeel checks
+maygoody checks
+pts50 checks
+** Dealing turn ** [ 4s ]
+romariocr7 checks
+pikejpeel checks
+maygoody bets [218]
+pts50 folds
+romariocr7 folds
+pikejpeel folds
+** Summary **
+maygoody collected [ 8.55 ]
+
+
+
+#Game No : 510748805
+***** 888poker Hand History for Game 510748805 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:01:38
+Table San Luis 10 Max (Play Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Beirnen15 ( 200 )
+Seat 4: maygoody ( 776.10 )
+Seat 5: pts50 ( 69.80 )
+Seat 6: marvela14 ( 873.60 )
+Seat 7: epiktet87 ( 190 )
+Seat 8: romariocr7 ( 196 )
+Seat 9: Ukrabilly ( 200 )
+Seat 10: pikejpeel ( 173.40 )
+romariocr7 posts small blind [1]
+Ukrabilly posts big blind [2]
+Beirnen15 posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 4h, Kd ]
+pikejpeel calls [2]
+Beirnen15 checks
+maygoody calls [2]
+pts50 raises [69.80]
+marvela14 folds
+epiktet87 folds
+romariocr7 folds
+Ukrabilly folds
+pikejpeel folds
+Beirnen15 folds
+maygoody calls [67.80]
+** Dealing flop ** [ 3h, Td, As ]
+** Dealing turn ** [ 5c ]
+** Dealing river ** [ Jd ]
+** Summary **
+maygoody shows [ Ks, 9s ]
+pts50 shows [ Ah, Qs ]
+pts50 collected [ 142.60 ]
+
+
+
+#Game No : 510748837
+***** 888poker Hand History for Game 510748837 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:02:35
+Table San Luis 10 Max (Play Money)
+Seat 8 is the button
+Total number of players : 8
+Seat 1: Beirnen15 ( 198 )
+Seat 4: maygoody ( 706.30 )
+Seat 5: pts50 ( 142.60 )
+Seat 6: marvela14 ( 873.60 )
+Seat 7: epiktet87 ( 190 )
+Seat 8: romariocr7 ( 195 )
+Seat 9: Ukrabilly ( 198 )
+Seat 10: pikejpeel ( 171.40 )
+Ukrabilly posts small blind [1]
+pikejpeel folds
+Beirnen15 posts big blind [2]
+** Dealing down cards **
+maygoody calls [2]
+pts50 calls [2]
+marvela14 calls [2]
+epiktet87 calls [2]
+romariocr7 calls [2]
+Ukrabilly calls [1]
+Beirnen15 checks
+** Dealing flop ** [ 3d, 3c, Ts ]
+Ukrabilly checks
+Beirnen15 checks
+maygoody checks
+pts50 checks
+marvela14 checks
+epiktet87 checks
+romariocr7 checks
+** Dealing turn ** [ 5d ]
+Ukrabilly checks
+Beirnen15 bets [4]
+maygoody raises [26]
+pts50 folds
+marvela14 folds
+epiktet87 folds
+romariocr7 folds
+Ukrabilly calls [26]
+Beirnen15 calls [22]
+** Dealing river ** [ 6s ]
+Ukrabilly checks
+Beirnen15 checks
+maygoody bets [166]
+Ukrabilly raises [170]
+Beirnen15 folds
+maygoody calls [4]
+** Summary **
+maygoody shows [ 3h, 5h ]
+Ukrabilly shows [ 4d, 7d ]
+maygoody collected [ 428 ]
+
+
+
+#Game No : 510748908
+***** 888poker Hand History for Game 510748908 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:04:01
+Table San Luis 10 Max (Play Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: Beirnen15 ( 170 )
+Seat 4: maygoody ( 936.30 )
+Seat 5: pts50 ( 140.60 )
+Seat 6: marvela14 ( 871.60 )
+Seat 7: epiktet87 ( 188 )
+Seat 8: romariocr7 ( 193 )
+Seat 10: pikejpeel ( 171.40 )
+maygoody posts small blind [1]
+pts50 posts big blind [2]
+pikejpeel posts dead blind [1 + 2]
+** Dealing down cards **
+Dealt to pikejpeel [ Jc, 5h ]
+marvela14 calls [2]
+epiktet87 folds
+romariocr7 calls [2]
+pikejpeel checks
+Beirnen15 calls [2]
+maygoody calls [1]
+pts50 checks
+** Dealing flop ** [ 6s, 7s, 4c ]
+maygoody checks
+pts50 bets [138.60]
+marvela14 folds
+romariocr7 folds
+pikejpeel raises [168.40]
+Beirnen15 folds
+maygoody calls [168.40]
+** Dealing turn ** [ 7h ]
+** Dealing river ** [ 4h ]
+** Summary **
+maygoody shows [ As, 8c ]
+pts50 shows [ 5c, 6d ]
+pikejpeel shows [ Jc, 5h ]
+pts50 collected [ 424.80 ]
+maygoody collected [ 59.60 ]
+
+
+
+#Game No : 510748960
+***** 888poker Hand History for Game 510748960 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:05:09
+Table San Luis 10 Max (Play Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Beirnen15 ( 168 )
+Seat 4: maygoody ( 825.50 )
+Seat 5: pts50 ( 424.80 )
+Seat 6: marvela14 ( 869.60 )
+Seat 7: epiktet87 ( 188 )
+Seat 8: romariocr7 ( 191 )
+pts50 posts small blind [1]
+marvela14 posts big blind [2]
+** Dealing down cards **
+epiktet87 calls [2]
+romariocr7 calls [2]
+Beirnen15 calls [2]
+maygoody calls [2]
+pts50 calls [1]
+marvela14 checks
+** Dealing flop ** [ 7s, 5h, 8s ]
+pts50 checks
+marvela14 bets [78]
+epiktet87 folds
+romariocr7 folds
+Beirnen15 folds
+maygoody calls [78]
+pts50 folds
+** Dealing turn ** [ 3s ]
+marvela14 checks
+maygoody checks
+** Dealing river ** [ Td ]
+marvela14 bets [789.60]
+maygoody calls [745.50]
+** Summary **
+maygoody shows [ Ts, Tc ]
+marvela14 shows [ 7h, 7c ]
+maygoody collected [ 1,655 ]
+
+
+
+#Game No : 510748995
+***** 888poker Hand History for Game 510748995 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:06:00
+Table San Luis 10 Max (Play Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 1: Beirnen15 ( 166 )
+Seat 4: maygoody ( 1,655 )
+Seat 5: pts50 ( 422.80 )
+Seat 6: marvela14 ( 200 )
+Seat 7: epiktet87 ( 186 )
+Seat 8: romariocr7 ( 189 )
+marvela14 posts small blind [1]
+epiktet87 posts big blind [2]
+** Dealing down cards **
+romariocr7 calls [2]
+Beirnen15 calls [2]
+maygoody calls [2]
+pts50 calls [2]
+marvela14 folds
+epiktet87 checks
+** Dealing flop ** [ 7h, 2h, 7c ]
+epiktet87 checks
+romariocr7 checks
+Beirnen15 checks
+maygoody checks
+pts50 bets [14.25]
+epiktet87 calls [14.25]
+romariocr7 folds
+Beirnen15 folds
+maygoody folds
+** Dealing turn ** [ Ts ]
+epiktet87 checks
+pts50 bets [19.75]
+epiktet87 folds
+** Summary **
+pts50 collected [ 37.55 ]
+
+
+
+#Game No : 510749028
+***** 888poker Hand History for Game 510749028 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:06:48
+Table San Luis 10 Max (Play Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: Beirnen15 ( 164 )
+Seat 4: maygoody ( 1,653 )
+Seat 5: pts50 ( 444.10 )
+Seat 6: marvela14 ( 200 )
+Seat 7: epiktet87 ( 169.75 )
+Seat 8: romariocr7 ( 187 )
+Seat 10: pikejpeel ( 200 )
+epiktet87 posts small blind [1]
+romariocr7 posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 5d, 2s ]
+pikejpeel folds
+Beirnen15 calls [2]
+maygoody calls [2]
+pts50 calls [2]
+marvela14 calls [2]
+epiktet87 folds
+romariocr7 checks
+** Dealing flop ** [ 7s, Kd, 6d ]
+romariocr7 bets [2]
+Beirnen15 calls [2]
+maygoody calls [2]
+pts50 calls [2]
+marvela14 folds
+** Dealing turn ** [ Qd ]
+romariocr7 bets [2]
+Beirnen15 calls [2]
+maygoody calls [2]
+pts50 calls [2]
+** Dealing river ** [ Qs ]
+romariocr7 bets [2]
+Beirnen15 folds
+maygoody folds
+pts50 folds
+** Summary **
+romariocr7 collected [ 25.65 ]
+
+
+
+#Game No : 510749058
+***** 888poker Hand History for Game 510749058 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:07:28
+Table San Luis 10 Max (Play Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: Beirnen15 ( 158 )
+Seat 4: maygoody ( 1,647 )
+Seat 5: pts50 ( 438.10 )
+Seat 6: marvela14 ( 200 )
+Seat 7: epiktet87 ( 168.75 )
+Seat 8: romariocr7 ( 206.65 )
+Seat 10: pikejpeel ( 200 )
+romariocr7 posts small blind [1]
+pikejpeel posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ Ts, Ah ]
+Beirnen15 folds
+maygoody calls [2]
+pts50 calls [2]
+marvela14 folds
+epiktet87 calls [2]
+romariocr7 calls [1]
+pikejpeel checks
+** Dealing flop ** [ 7h, 5c, Ks ]
+romariocr7 checks
+pikejpeel checks
+maygoody bets [10]
+pts50 folds
+epiktet87 folds
+romariocr7 calls [10]
+pikejpeel folds
+** Dealing turn ** [ 3c ]
+romariocr7 checks
+maygoody bets [420]
+romariocr7 calls [194.65]
+** Dealing river ** [ Qc ]
+** Summary **
+maygoody shows [ Kh, 5d ]
+romariocr7 shows [ Jd, Jc ]
+maygoody collected [ 415.30 ]
+
+
+
+#Game No : 510749095
+***** 888poker Hand History for Game 510749095 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:08:25
+Table San Luis 10 Max (Play Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: Beirnen15 ( 158 )
+Seat 2: morkijon14 ( 200 )
+Seat 4: maygoody ( 1,855.65 )
+Seat 5: pts50 ( 436.10 )
+Seat 6: marvela14 ( 200 )
+Seat 7: epiktet87 ( 166.75 )
+Seat 9: Ukrabilly ( 200 )
+Seat 10: pikejpeel ( 198 )
+Beirnen15 posts small blind [1]
+morkijon14 posts big blind [2]
+Ukrabilly posts dead blind [1 + 2]
+** Dealing down cards **
+Dealt to pikejpeel [ 7s, As ]
+maygoody calls [2]
+pts50 calls [2]
+marvela14 raises [14]
+epiktet87 folds
+Ukrabilly calls [12]
+pikejpeel calls [14]
+Beirnen15 folds
+morkijon14 calls [12]
+maygoody calls [12]
+pts50 folds
+** Dealing flop ** [ 9d, 6s, 6h ]
+morkijon14 checks
+maygoody checks
+marvela14 checks
+Ukrabilly bets [112]
+pikejpeel folds
+morkijon14 folds
+maygoody folds
+marvela14 raises [186]
+Ukrabilly calls [73]
+** Dealing turn ** [ 5s ]
+** Dealing river ** [ 8h ]
+** Summary **
+marvela14 shows [ Qs, Qc ]
+Ukrabilly shows [ Kh, 9s ]
+marvela14 collected [ 440 ]
+
+
+
+#Game No : 510749145
+***** 888poker Hand History for Game 510749145 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:09:32
+Table San Luis 10 Max (Play Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Beirnen15 ( 157 )
+Seat 2: morkijon14 ( 186 )
+Seat 4: maygoody ( 1,841.65 )
+Seat 5: pts50 ( 434.10 )
+Seat 6: marvela14 ( 441 )
+Seat 7: epiktet87 ( 166.75 )
+Seat 8: romariocr7 ( 200 )
+Seat 10: pikejpeel ( 184 )
+morkijon14 posts small blind [1]
+maygoody posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 9h, Tc ]
+pts50 calls [2]
+marvela14 calls [2]
+epiktet87 folds
+romariocr7 calls [2]
+pikejpeel calls [2]
+Beirnen15 calls [2]
+morkijon14 calls [1]
+maygoody checks
+** Dealing flop ** [ 6h, 8s, Ts ]
+morkijon14 checks
+maygoody checks
+pts50 bets [10.50]
+marvela14 calls [10.50]
+romariocr7 folds
+pikejpeel raises [182]
+Beirnen15 folds
+morkijon14 folds
+maygoody folds
+pts50 folds
+marvela14 folds
+** Summary **
+pikejpeel did not show his hand
+pikejpeel collected [ 43.25 ]
+
+
+
+#Game No : 510749181
+***** 888poker Hand History for Game 510749181 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:10:20
+Table San Luis 10 Max (Play Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Beirnen15 ( 155 )
+Seat 2: morkijon14 ( 184 )
+Seat 4: maygoody ( 1,839.65 )
+Seat 5: pts50 ( 421.60 )
+Seat 6: marvela14 ( 428.50 )
+Seat 7: epiktet87 ( 166.75 )
+Seat 8: romariocr7 ( 198 )
+Seat 10: pikejpeel ( 214.75 )
+maygoody posts small blind [1]
+pts50 posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 4s, 2h ]
+marvela14 folds
+epiktet87 calls [2]
+romariocr7 calls [2]
+pikejpeel folds
+Beirnen15 calls [2]
+morkijon14 folds
+maygoody calls [1]
+pts50 checks
+** Dealing flop ** [ 8h, Jh, Jd ]
+maygoody checks
+pts50 checks
+epiktet87 checks
+romariocr7 bets [10]
+Beirnen15 folds
+maygoody calls [10]
+pts50 folds
+epiktet87 calls [10]
+** Dealing turn ** [ Kc ]
+maygoody checks
+epiktet87 checks
+romariocr7 bets [2]
+maygoody calls [2]
+epiktet87 calls [2]
+** Dealing river ** [ 6c ]
+maygoody checks
+epiktet87 bets [10]
+romariocr7 raises [76]
+maygoody folds
+epiktet87 folds
+** Summary **
+romariocr7 collected [ 62.70 ]
+
+
+
+#Game No : 510749229
+***** 888poker Hand History for Game 510749229 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:11:34
+Table San Luis 10 Max (Play Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Beirnen15 ( 153 )
+Seat 2: morkijon14 ( 184 )
+Seat 4: maygoody ( 1,825.65 )
+Seat 6: marvela14 ( 428.50 )
+Seat 7: epiktet87 ( 142.75 )
+Seat 8: romariocr7 ( 236.70 )
+Seat 9: kulazhenckof ( 200 )
+Seat 10: pikejpeel ( 214.75 )
+marvela14 posts small blind [1]
+epiktet87 posts big blind [2]
+kulazhenckof posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ Ts, 4c ]
+romariocr7 calls [2]
+kulazhenckof checks
+pikejpeel folds
+Beirnen15 calls [2]
+morkijon14 folds
+maygoody calls [2]
+marvela14 raises [25]
+epiktet87 folds
+romariocr7 folds
+kulazhenckof folds
+Beirnen15 folds
+maygoody calls [24]
+** Dealing flop ** [ 2c, 7d, Kh ]
+marvela14 bets [138]
+maygoody folds
+** Summary **
+marvela14 did not show his hand
+marvela14 collected [ 57 ]
+
+
+
+#Game No : 510749253
+***** 888poker Hand History for Game 510749253 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:12:14
+Table San Luis 10 Max (Play Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: Beirnen15 ( 151 )
+Seat 2: morkijon14 ( 184 )
+Seat 4: maygoody ( 1,799.65 )
+Seat 6: marvela14 ( 459.50 )
+Seat 8: romariocr7 ( 234.70 )
+Seat 9: kulazhenckof ( 198 )
+Seat 10: pikejpeel ( 214.75 )
+romariocr7 posts small blind [1]
+kulazhenckof posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 7d, Ah ]
+pikejpeel calls [2]
+Beirnen15 calls [2]
+morkijon14 calls [2]
+maygoody calls [2]
+marvela14 folds
+romariocr7 calls [1]
+kulazhenckof checks
+** Dealing flop ** [ Kh, Td, 9c ]
+romariocr7 checks
+kulazhenckof checks
+pikejpeel bets [2]
+Beirnen15 folds
+morkijon14 calls [2]
+maygoody calls [2]
+romariocr7 calls [2]
+kulazhenckof calls [2]
+** Dealing turn ** [ 7s ]
+romariocr7 checks
+kulazhenckof bets [40]
+pikejpeel raises [80]
+morkijon14 folds
+maygoody calls [80]
+romariocr7 folds
+kulazhenckof raises [154]
+pikejpeel calls [114]
+maygoody calls [114]
+** Dealing river ** [ Th ]
+pikejpeel checks
+maygoody checks
+** Summary **
+pikejpeel shows [ 7d, Ah ]
+maygoody shows [ Qd, Qs ]
+kulazhenckof shows [ Kd, 2d ]
+kulazhenckof collected [ 600 ]
+
+
+
+#Game No : 510749296
+***** 888poker Hand History for Game 510749296 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:13:26
+Table San Luis 10 Max (Play Money)
+Seat 8 is the button
+Total number of players : 7
+Seat 1: Beirnen15 ( 149 )
+Seat 2: morkijon14 ( 180 )
+Seat 4: maygoody ( 1,601.65 )
+Seat 6: marvela14 ( 459.50 )
+Seat 8: romariocr7 ( 230.70 )
+Seat 9: kulazhenckof ( 600 )
+Seat 10: pikejpeel ( 16.75 )
+kulazhenckof posts small blind [1]
+pikejpeel posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 5h, Ts ]
+Beirnen15 raises [10]
+morkijon14 calls [10]
+maygoody folds
+marvela14 folds
+romariocr7 calls [10]
+kulazhenckof calls [9]
+pikejpeel folds
+** Dealing flop ** [ 6d, 2c, Qh ]
+kulazhenckof checks
+Beirnen15 bets [10]
+morkijon14 calls [10]
+romariocr7 calls [10]
+kulazhenckof calls [10]
+** Dealing turn ** [ Ac ]
+kulazhenckof checks
+Beirnen15 bets [82]
+morkijon14 folds
+romariocr7 folds
+kulazhenckof calls [82]
+** Dealing river ** [ As ]
+kulazhenckof checks
+Beirnen15 bets [47]
+kulazhenckof folds
+** Summary **
+Beirnen15 collected [ 242 ]
+
+
+
+#Game No : 510749331
+***** 888poker Hand History for Game 510749331 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:14:28
+Table San Luis 10 Max (Play Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: Beirnen15 ( 289 )
+Seat 2: morkijon14 ( 160 )
+Seat 3: ZerrAuu2009 ( 200 )
+Seat 4: maygoody ( 1,601.65 )
+Seat 6: marvela14 ( 459.50 )
+Seat 8: romariocr7 ( 210.70 )
+Seat 9: kulazhenckof ( 498 )
+Seat 10: pikejpeel ( 14.75 )
+pikejpeel posts small blind [1]
+Beirnen15 posts big blind [2]
+ZerrAuu2009 posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 9h, Qd ]
+morkijon14 calls [2]
+ZerrAuu2009 checks
+maygoody calls [2]
+marvela14 folds
+romariocr7 calls [2]
+kulazhenckof calls [2]
+pikejpeel calls [1]
+Beirnen15 checks
+** Dealing flop ** [ 7s, Qs, 8c ]
+pikejpeel bets [12.75]
+Beirnen15 folds
+morkijon14 calls [12.75]
+ZerrAuu2009 calls [12.75]
+maygoody folds
+romariocr7 calls [12.75]
+kulazhenckof calls [12.75]
+** Dealing turn ** [ Td ]
+morkijon14 checks
+ZerrAuu2009 checks
+romariocr7 checks
+kulazhenckof checks
+** Dealing river ** [ Tc ]
+morkijon14 bets [77.75]
+ZerrAuu2009 folds
+romariocr7 folds
+kulazhenckof folds
+** Summary **
+morkijon14 shows [ Jc, Ts ]
+pikejpeel shows [ 9h, Qd ]
+morkijon14 collected [ 73.90 ]
+
+
+
+#Game No : 510749372
+***** 888poker Hand History for Game 510749372 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:15:35
+Table San Luis 10 Max (Play Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Beirnen15 ( 287 )
+Seat 2: morkijon14 ( 219.15 )
+Seat 3: ZerrAuu2009 ( 185.25 )
+Seat 4: maygoody ( 1,599.65 )
+Seat 5: Kuzma1984 ( 200 )
+Seat 6: marvela14 ( 459.50 )
+Seat 8: romariocr7 ( 195.95 )
+Seat 9: kulazhenckof ( 483.25 )
+morkijon14 posts small blind [1]
+ZerrAuu2009 posts big blind [2]
+Kuzma1984 posts big blind [2]
+** Dealing down cards **
+maygoody calls [2]
+Kuzma1984 raises [5.25]
+marvela14 calls [7.25]
+romariocr7 calls [7.25]
+kulazhenckof folds
+Beirnen15 folds
+morkijon14 calls [6.25]
+ZerrAuu2009 calls [5.25]
+maygoody calls [5.25]
+** Dealing flop ** [ Kd, 4s, Td ]
+morkijon14 checks
+ZerrAuu2009 bets [2]
+maygoody calls [2]
+Kuzma1984 raises [192.75]
+marvela14 calls [192.75]
+romariocr7 folds
+morkijon14 folds
+ZerrAuu2009 folds
+maygoody folds
+** Dealing turn ** [ 2c ]
+** Dealing river ** [ Th ]
+** Summary **
+Kuzma1984 shows [ Jc, Tc ]
+marvela14 shows [ As, Kc ]
+Kuzma1984 collected [ 429 ]
+
+
+
+#Game No : 510749404
+***** 888poker Hand History for Game 510749404 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:16:33
+Table San Luis 10 Max (Play Money)
+Seat 2 is the button
+Total number of players : 10
+Seat 1: Beirnen15 ( 287 )
+Seat 2: morkijon14 ( 211.90 )
+Seat 3: ZerrAuu2009 ( 176 )
+Seat 4: maygoody ( 1,590.40 )
+Seat 5: Kuzma1984 ( 429 )
+Seat 6: marvela14 ( 259.50 )
+Seat 7: dannyf1929 ( 200 )
+Seat 8: romariocr7 ( 188.70 )
+Seat 9: kulazhenckof ( 483.25 )
+Seat 10: pikejpeel ( 200 )
+ZerrAuu2009 posts small blind [1]
+maygoody posts big blind [2]
+dannyf1929 posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ Tc, 9s ]
+Kuzma1984 raises [429]
+marvela14 folds
+dannyf1929 folds
+romariocr7 folds
+kulazhenckof folds
+pikejpeel folds
+Beirnen15 folds
+morkijon14 folds
+ZerrAuu2009 folds
+maygoody folds
+** Summary **
+Kuzma1984 did not show his hand
+Kuzma1984 collected [ 7 ]
+
+
+
+#Game No : 510749435
+***** 888poker Hand History for Game 510749435 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:17:15
+Table San Luis 10 Max (Play Money)
+Seat 3 is the button
+Total number of players : 10
+Seat 1: Beirnen15 ( 287 )
+Seat 2: morkijon14 ( 211.90 )
+Seat 3: ZerrAuu2009 ( 175 )
+Seat 4: maygoody ( 1,588.40 )
+Seat 5: Kuzma1984 ( 434 )
+Seat 6: marvela14 ( 259.50 )
+Seat 7: dannyf1929 ( 198 )
+Seat 8: romariocr7 ( 188.70 )
+Seat 9: kulazhenckof ( 483.25 )
+Seat 10: pikejpeel ( 200 )
+maygoody posts small blind [1]
+Kuzma1984 posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ Th, 7h ]
+marvela14 calls [2]
+dannyf1929 calls [2]
+romariocr7 raises [188.70]
+kulazhenckof folds
+pikejpeel folds
+Beirnen15 folds
+morkijon14 folds
+ZerrAuu2009 folds
+maygoody folds
+Kuzma1984 calls [186.70]
+marvela14 folds
+dannyf1929 folds
+** Dealing flop ** [ 8s, Qc, Kh ]
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ 9h ]
+** Summary **
+Kuzma1984 shows [ 4h, 4c ]
+romariocr7 shows [ Ah, As ]
+romariocr7 collected [ 378.40 ]
+
+
+
+#Game No : 510749473
+***** 888poker Hand History for Game 510749473 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:18:05
+Table San Luis 10 Max (Play Money)
+Seat 4 is the button
+Total number of players : 10
+Seat 1: Beirnen15 ( 287 )
+Seat 2: morkijon14 ( 211.90 )
+Seat 3: ZerrAuu2009 ( 175 )
+Seat 4: maygoody ( 1,587.40 )
+Seat 5: Kuzma1984 ( 245.30 )
+Seat 6: marvela14 ( 257.50 )
+Seat 7: dannyf1929 ( 196 )
+Seat 8: romariocr7 ( 378.40 )
+Seat 9: kulazhenckof ( 483.25 )
+Seat 10: pikejpeel ( 200 )
+Kuzma1984 posts small blind [1]
+marvela14 posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 3s, 6c ]
+dannyf1929 calls [2]
+romariocr7 calls [2]
+kulazhenckof calls [2]
+pikejpeel folds
+Beirnen15 calls [2]
+morkijon14 calls [2]
+ZerrAuu2009 raises [4]
+maygoody folds
+Kuzma1984 folds
+marvela14 calls [2]
+dannyf1929 calls [2]
+romariocr7 calls [2]
+kulazhenckof calls [2]
+Beirnen15 calls [2]
+morkijon14 calls [2]
+** Dealing flop ** [ Ks, As, Tc ]
+marvela14 checks
+dannyf1929 checks
+romariocr7 checks
+kulazhenckof checks
+Beirnen15 checks
+morkijon14 checks
+ZerrAuu2009 bets [2]
+marvela14 calls [2]
+dannyf1929 calls [2]
+romariocr7 folds
+kulazhenckof calls [2]
+Beirnen15 folds
+morkijon14 folds
+** Dealing turn ** [ 8c ]
+marvela14 checks
+dannyf1929 checks
+kulazhenckof checks
+ZerrAuu2009 bets [2]
+marvela14 calls [2]
+dannyf1929 folds
+kulazhenckof calls [2]
+** Dealing river ** [ Jc ]
+marvela14 bets [249.50]
+kulazhenckof folds
+ZerrAuu2009 calls [167]
+** Summary **
+ZerrAuu2009 shows [ 4c, Kc ]
+marvela14 shows [ Qd, 6h ]
+ZerrAuu2009 collected [ 373 ]
+
+
+
+#Game No : 510749521
+***** 888poker Hand History for Game 510749521 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:19:30
+Table San Luis 10 Max (Play Money)
+Seat 5 is the button
+Total number of players : 10
+Seat 1: Beirnen15 ( 283 )
+Seat 2: morkijon14 ( 207.90 )
+Seat 3: ZerrAuu2009 ( 373 )
+Seat 4: maygoody ( 1,587.40 )
+Seat 5: Kuzma1984 ( 244.30 )
+Seat 6: marvela14 ( 200 )
+Seat 7: dannyf1929 ( 190 )
+Seat 8: romariocr7 ( 374.40 )
+Seat 9: kulazhenckof ( 475.25 )
+Seat 10: pikejpeel ( 200 )
+marvela14 posts small blind [1]
+dannyf1929 posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 4s, 6s ]
+romariocr7 calls [2]
+kulazhenckof calls [2]
+pikejpeel calls [2]
+Beirnen15 calls [2]
+morkijon14 calls [2]
+ZerrAuu2009 folds
+maygoody calls [2]
+Kuzma1984 raises [244.30]
+marvela14 calls [199]
+dannyf1929 folds
+romariocr7 calls [242.30]
+kulazhenckof raises [473.25]
+pikejpeel folds
+Beirnen15 folds
+morkijon14 calls [205.90]
+maygoody folds
+romariocr7 calls [130.10]
+** Dealing flop ** [ Jc, Kh, 5d ]
+** Dealing turn ** [ Jd ]
+** Dealing river ** [ Tc ]
+** Summary **
+morkijon14 shows [ Ts, Kc ]
+Kuzma1984 shows [ Qs, Jh ]
+marvela14 shows [ 9h, 9s ]
+romariocr7 shows [ 6d, Ah ]
+kulazhenckof shows [ Td, Th ]
+kulazhenckof collected [ 1,004 ]
+kulazhenckof collected [ 31.60 ]
+kulazhenckof collected [ 109.20 ]
+kulazhenckof collected [ 260.20 ]
+
+
+
+#Game No : 510749552
+***** 888poker Hand History for Game 510749552 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:20:20
+Table San Luis 10 Max (Play Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: Beirnen15 ( 281 )
+Seat 3: ZerrAuu2009 ( 373 )
+Seat 4: maygoody ( 1,585.40 )
+Seat 6: marvela14 ( 200 )
+Seat 7: dannyf1929 ( 188 )
+Seat 9: kulazhenckof ( 1,505.85 )
+Seat 10: pikejpeel ( 198 )
+dannyf1929 posts small blind [1]
+kulazhenckof posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 6s, Ts ]
+pikejpeel calls [2]
+Beirnen15 calls [2]
+ZerrAuu2009 raises [4]
+maygoody calls [4]
+marvela14 calls [4]
+dannyf1929 calls [3]
+kulazhenckof calls [2]
+pikejpeel calls [2]
+Beirnen15 calls [2]
+** Dealing flop ** [ 6c, Js, 8c ]
+dannyf1929 checks
+kulazhenckof checks
+pikejpeel checks
+Beirnen15 checks
+ZerrAuu2009 bets [2]
+maygoody calls [2]
+marvela14 folds
+dannyf1929 calls [2]
+kulazhenckof calls [2]
+pikejpeel calls [2]
+Beirnen15 calls [2]
+** Dealing turn ** [ 6d ]
+dannyf1929 bets [2]
+kulazhenckof calls [2]
+pikejpeel raises [14]
+Beirnen15 folds
+ZerrAuu2009 raises [26]
+maygoody folds
+dannyf1929 calls [24]
+kulazhenckof folds
+pikejpeel calls [12]
+** Dealing river ** [ 4h ]
+dannyf1929 checks
+pikejpeel bets [120]
+ZerrAuu2009 folds
+dannyf1929 calls [120]
+** Summary **
+pikejpeel shows [ 6s, Ts ]
+dannyf1929 mucks [ 6h, 5c ]
+pikejpeel collected [ 356 ]
+
+
+
+#Game No : 510749625
+***** 888poker Hand History for Game 510749625 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:22:05
+Table San Luis 10 Max (Play Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Beirnen15 ( 275 )
+Seat 3: ZerrAuu2009 ( 341 )
+Seat 4: maygoody ( 1,579.40 )
+Seat 6: marvela14 ( 200 )
+Seat 9: kulazhenckof ( 1,497.85 )
+Seat 10: pikejpeel ( 402 )
+kulazhenckof posts small blind [1]
+pikejpeel posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 4s, 9h ]
+Beirnen15 folds
+ZerrAuu2009 raises [4]
+maygoody calls [4]
+marvela14 calls [4]
+kulazhenckof calls [3]
+pikejpeel folds
+** Dealing flop ** [ 8h, 5h, 4d ]
+kulazhenckof checks
+ZerrAuu2009 bets [2]
+maygoody calls [2]
+marvela14 calls [2]
+kulazhenckof calls [2]
+** Dealing turn ** [ Tc ]
+kulazhenckof checks
+ZerrAuu2009 bets [2]
+maygoody calls [2]
+marvela14 calls [2]
+kulazhenckof calls [2]
+** Dealing river ** [ 2d ]
+kulazhenckof checks
+ZerrAuu2009 bets [2]
+maygoody folds
+marvela14 calls [2]
+kulazhenckof calls [2]
+** Summary **
+ZerrAuu2009 shows [ Qh, Ah ]
+marvela14 shows [ 8c, Qs ]
+kulazhenckof mucks [ 3d, 5c ]
+marvela14 collected [ 38 ]
+
+
+
+#Game No : 510749658
+***** 888poker Hand History for Game 510749658 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:23:00
+Table San Luis 10 Max (Play Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: Beirnen15 ( 275 )
+Seat 2: Carozo ( 120 )
+Seat 3: ZerrAuu2009 ( 331 )
+Seat 4: maygoody ( 1,571.40 )
+Seat 5: J8keyPop ( 200 )
+Seat 6: marvela14 ( 228 )
+Seat 9: kulazhenckof ( 1,487.85 )
+Seat 10: pikejpeel ( 400 )
+pikejpeel posts small blind [1]
+Beirnen15 posts big blind [2]
+Carozo posts big blind [2]
+J8keyPop posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 7c, Kd ]
+Carozo checks
+ZerrAuu2009 raises [4]
+maygoody folds
+J8keyPop calls [2]
+marvela14 folds
+kulazhenckof calls [4]
+pikejpeel folds
+Beirnen15 calls [2]
+Carozo calls [2]
+** Dealing flop ** [ 4h, 3c, 8h ]
+Beirnen15 checks
+Carozo checks
+ZerrAuu2009 bets [2]
+J8keyPop calls [2]
+kulazhenckof calls [2]
+Beirnen15 folds
+Carozo calls [2]
+** Dealing turn ** [ 6d ]
+Carozo checks
+ZerrAuu2009 bets [16]
+J8keyPop calls [16]
+kulazhenckof calls [16]
+Carozo folds
+** Dealing river ** [ 4d ]
+ZerrAuu2009 bets [50]
+J8keyPop folds
+kulazhenckof calls [50]
+** Summary **
+ZerrAuu2009 shows [ 5h, 2d ]
+kulazhenckof mucks [ 8c, Th ]
+ZerrAuu2009 collected [ 173 ]
+
+
+
+#Game No : 510749687
+***** 888poker Hand History for Game 510749687 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:23:59
+Table San Luis 10 Max (Play Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: Beirnen15 ( 271 )
+Seat 2: Carozo ( 114 )
+Seat 3: ZerrAuu2009 ( 432 )
+Seat 4: maygoody ( 1,571.40 )
+Seat 5: J8keyPop ( 178 )
+Seat 6: marvela14 ( 228 )
+Seat 9: kulazhenckof ( 1,415.85 )
+Seat 10: pikejpeel ( 399 )
+Beirnen15 posts small blind [1]
+Carozo posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 9h, 9d ]
+ZerrAuu2009 raises [4]
+maygoody folds
+J8keyPop calls [4]
+marvela14 folds
+kulazhenckof calls [4]
+pikejpeel raises [14]
+Beirnen15 folds
+Carozo folds
+ZerrAuu2009 raises [20]
+J8keyPop calls [20]
+kulazhenckof folds
+pikejpeel calls [10]
+** Dealing flop ** [ 2s, Qs, 3s ]
+ZerrAuu2009 bets [2]
+J8keyPop calls [2]
+pikejpeel raises [16]
+ZerrAuu2009 raises [28]
+J8keyPop calls [28]
+pikejpeel calls [14]
+** Dealing turn ** [ Qc ]
+ZerrAuu2009 bets [2]
+J8keyPop calls [2]
+pikejpeel calls [2]
+** Dealing river ** [ Kd ]
+ZerrAuu2009 bets [2]
+J8keyPop calls [2]
+pikejpeel calls [2]
+** Summary **
+ZerrAuu2009 shows [ 3d, Jc ]
+J8keyPop shows [ 4h, 4d ]
+pikejpeel shows [ 9h, 9d ]
+pikejpeel collected [ 177 ]
+
+
+
+#Game No : 510749731
+***** 888poker Hand History for Game 510749731 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:25:19
+Table San Luis 10 Max (Play Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Beirnen15 ( 270 )
+Seat 2: Carozo ( 112 )
+Seat 3: ZerrAuu2009 ( 374 )
+Seat 4: maygoody ( 1,571.40 )
+Seat 5: J8keyPop ( 120 )
+Seat 6: marvela14 ( 228 )
+Seat 9: kulazhenckof ( 1,411.85 )
+Seat 10: pikejpeel ( 518 )
+Carozo posts small blind [1]
+ZerrAuu2009 posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 6h, 6s ]
+maygoody folds
+J8keyPop calls [2]
+marvela14 calls [2]
+kulazhenckof calls [2]
+pikejpeel raises [13]
+Beirnen15 calls [13]
+Carozo calls [12]
+ZerrAuu2009 raises [22]
+J8keyPop calls [22]
+marvela14 folds
+kulazhenckof calls [22]
+pikejpeel calls [11]
+Beirnen15 calls [11]
+Carozo calls [11]
+** Dealing flop ** [ Kd, Ad, Jc ]
+Carozo checks
+ZerrAuu2009 bets [2]
+J8keyPop calls [2]
+kulazhenckof calls [2]
+pikejpeel calls [2]
+Beirnen15 folds
+Carozo raises [80]
+ZerrAuu2009 calls [78]
+J8keyPop calls [78]
+kulazhenckof calls [78]
+pikejpeel folds
+** Dealing turn ** [ 3c ]
+Carozo bets [8]
+ZerrAuu2009 raises [16]
+J8keyPop calls [16]
+kulazhenckof calls [16]
+** Dealing river ** [ Kh ]
+ZerrAuu2009 bets [2]
+kulazhenckof calls [2]
+** Summary **
+ZerrAuu2009 shows [ 6d, Qh ]
+J8keyPop shows [ Js, Qc ]
+kulazhenckof mucks [ 9h, Tc ]
+Carozo shows [ Ks, 7s ]
+Carozo collected [ 496 ]
+J8keyPop collected [ 24 ]
+ZerrAuu2009 collected [ 4 ]
+
+
+
+#Game No : 510749770
+***** 888poker Hand History for Game 510749770 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:26:30
+Table San Luis 10 Max (Play Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Beirnen15 ( 246 )
+Seat 2: Carozo ( 496 )
+Seat 3: ZerrAuu2009 ( 256 )
+Seat 4: maygoody ( 1,571.40 )
+Seat 5: J8keyPop ( 24 )
+Seat 6: marvela14 ( 226 )
+Seat 9: kulazhenckof ( 1,289.85 )
+Seat 10: pikejpeel ( 492 )
+ZerrAuu2009 posts small blind [1]
+maygoody posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 5c, Js ]
+J8keyPop calls [2]
+marvela14 folds
+kulazhenckof calls [2]
+pikejpeel folds
+Beirnen15 folds
+Carozo calls [2]
+ZerrAuu2009 raises [3]
+maygoody calls [2]
+J8keyPop calls [2]
+kulazhenckof calls [2]
+Carozo calls [2]
+** Dealing flop ** [ Kh, Jd, 7s ]
+ZerrAuu2009 bets [2]
+maygoody folds
+J8keyPop calls [2]
+kulazhenckof calls [2]
+Carozo calls [2]
+** Dealing turn ** [ 8s ]
+ZerrAuu2009 bets [2]
+J8keyPop calls [2]
+kulazhenckof calls [2]
+Carozo raises [4]
+ZerrAuu2009 raises [4]
+J8keyPop calls [4]
+kulazhenckof folds
+Carozo calls [2]
+** Dealing river ** [ Ks ]
+ZerrAuu2009 bets [4]
+J8keyPop calls [4]
+Carozo calls [4]
+** Summary **
+ZerrAuu2009 shows [ 5h, Kd ]
+J8keyPop mucks [ Ac, As ]
+Carozo mucks [ 8h, 6h ]
+ZerrAuu2009 collected [ 57 ]
+
+
+
+#Game No : 510749795
+***** 888poker Hand History for Game 510749795 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:27:26
+Table San Luis 10 Max (Play Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Beirnen15 ( 246 )
+Seat 2: Carozo ( 480 )
+Seat 3: ZerrAuu2009 ( 297 )
+Seat 4: maygoody ( 1,567.40 )
+Seat 5: J8keyPop ( 8 )
+Seat 6: marvela14 ( 226 )
+Seat 9: kulazhenckof ( 1,281.85 )
+Seat 10: pikejpeel ( 492 )
+maygoody posts small blind [1]
+J8keyPop posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 2c, 5h ]
+marvela14 calls [2]
+kulazhenckof calls [2]
+pikejpeel folds
+Beirnen15 calls [2]
+Carozo calls [2]
+ZerrAuu2009 raises [4]
+maygoody calls [3]
+J8keyPop calls [2]
+marvela14 calls [2]
+kulazhenckof calls [2]
+Beirnen15 calls [2]
+Carozo calls [2]
+** Dealing flop ** [ 6h, 7c, 3c ]
+maygoody checks
+J8keyPop checks
+marvela14 checks
+kulazhenckof checks
+Beirnen15 checks
+Carozo checks
+ZerrAuu2009 bets [12]
+maygoody calls [12]
+J8keyPop calls [4]
+marvela14 calls [12]
+kulazhenckof calls [12]
+Beirnen15 calls [12]
+Carozo calls [12]
+** Dealing turn ** [ 2h ]
+maygoody checks
+marvela14 checks
+kulazhenckof checks
+Beirnen15 checks
+Carozo checks
+ZerrAuu2009 bets [4]
+maygoody calls [4]
+marvela14 calls [4]
+kulazhenckof calls [4]
+Beirnen15 calls [4]
+Carozo calls [4]
+** Dealing river ** [ 4h ]
+maygoody checks
+marvela14 bets [206]
+kulazhenckof calls [206]
+Beirnen15 folds
+Carozo folds
+ZerrAuu2009 folds
+maygoody folds
+** Summary **
+J8keyPop shows [ Kh, 7d ]
+marvela14 shows [ 5s, 5d ]
+kulazhenckof shows [ 3d, 5c ]
+marvela14 collected [ 26.60 ]
+kulazhenckof collected [ 26.60 ]
+marvela14 collected [ 241.40 ]
+kulazhenckof collected [ 241.40 ]
+
+
+
+#Game No : 510749848
+***** 888poker Hand History for Game 510749848 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:28:51
+Table San Luis 10 Max (Play Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: Beirnen15 ( 226 )
+Seat 2: Carozo ( 460 )
+Seat 3: ZerrAuu2009 ( 277 )
+Seat 4: maygoody ( 1,547.40 )
+Seat 6: marvela14 ( 268 )
+Seat 9: kulazhenckof ( 1,323.85 )
+Seat 10: pikejpeel ( 492 )
+marvela14 posts small blind [1]
+kulazhenckof posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 9s, 2h ]
+pikejpeel folds
+Beirnen15 calls [2]
+Carozo calls [2]
+ZerrAuu2009 raises [4]
+maygoody calls [4]
+marvela14 calls [3]
+kulazhenckof calls [2]
+Beirnen15 calls [2]
+Carozo calls [2]
+** Dealing flop ** [ 5d, 8c, Qd ]
+marvela14 checks
+kulazhenckof checks
+Beirnen15 checks
+Carozo checks
+ZerrAuu2009 bets [2]
+maygoody calls [2]
+marvela14 folds
+kulazhenckof calls [2]
+Beirnen15 folds
+Carozo calls [2]
+** Dealing turn ** [ 7d ]
+kulazhenckof checks
+Carozo checks
+ZerrAuu2009 bets [2]
+maygoody calls [2]
+kulazhenckof calls [2]
+Carozo calls [2]
+** Dealing river ** [ 9c ]
+kulazhenckof bets [174]
+Carozo folds
+ZerrAuu2009 folds
+maygoody folds
+** Summary **
+kulazhenckof did not show his hand
+kulazhenckof collected [ 38 ]
+
+
+
+#Game No : 510749885
+***** 888poker Hand History for Game 510749885 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:29:48
+Table San Luis 10 Max (Play Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: Beirnen15 ( 222 )
+Seat 2: Carozo ( 452 )
+Seat 3: ZerrAuu2009 ( 269 )
+Seat 4: maygoody ( 1,539.40 )
+Seat 6: marvela14 ( 264 )
+Seat 9: kulazhenckof ( 1,353.85 )
+Seat 10: pikejpeel ( 492 )
+kulazhenckof posts small blind [1]
+pikejpeel posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ Qc, 2h ]
+Beirnen15 folds
+Carozo calls [2]
+ZerrAuu2009 raises [4]
+maygoody folds
+marvela14 folds
+kulazhenckof calls [3]
+pikejpeel calls [2]
+Carozo calls [2]
+** Dealing flop ** [ 2s, 3c, Kc ]
+kulazhenckof checks
+pikejpeel checks
+Carozo checks
+ZerrAuu2009 bets [2]
+kulazhenckof calls [2]
+pikejpeel calls [2]
+Carozo calls [2]
+** Dealing turn ** [ 7h ]
+kulazhenckof checks
+pikejpeel checks
+Carozo checks
+ZerrAuu2009 bets [4]
+kulazhenckof calls [4]
+pikejpeel calls [4]
+Carozo folds
+** Dealing river ** [ Td ]
+kulazhenckof folds
+pikejpeel checks
+ZerrAuu2009 bets [2]
+pikejpeel calls [2]
+** Summary **
+ZerrAuu2009 shows [ 6d, Ac ]
+pikejpeel shows [ Qc, 2h ]
+pikejpeel collected [ 38 ]
+
+
+
+#Game No : 510749926
+***** 888poker Hand History for Game 510749926 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:30:57
+Table San Luis 10 Max (Play Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: Beirnen15 ( 222 )
+Seat 2: Carozo ( 446 )
+Seat 3: ZerrAuu2009 ( 257 )
+Seat 4: maygoody ( 1,539.40 )
+Seat 6: marvela14 ( 264 )
+Seat 9: kulazhenckof ( 1,343.85 )
+Seat 10: pikejpeel ( 518 )
+pikejpeel posts small blind [1]
+Beirnen15 posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 4s, Ts ]
+Carozo calls [2]
+ZerrAuu2009 raises [4]
+maygoody calls [4]
+marvela14 calls [4]
+kulazhenckof calls [4]
+pikejpeel calls [3]
+Beirnen15 calls [2]
+Carozo calls [2]
+** Dealing flop ** [ Qh, 9s, Ks ]
+pikejpeel bets [2]
+Beirnen15 calls [2]
+Carozo calls [2]
+ZerrAuu2009 raises [4]
+maygoody folds
+marvela14 calls [4]
+kulazhenckof calls [4]
+pikejpeel calls [2]
+Beirnen15 calls [2]
+Carozo raises [4]
+ZerrAuu2009 raises [4]
+marvela14 calls [4]
+kulazhenckof calls [4]
+pikejpeel calls [4]
+Beirnen15 calls [4]
+Carozo calls [2]
+** Dealing turn ** [ Jc ]
+pikejpeel bets [506]
+Beirnen15 calls [210]
+Carozo folds
+ZerrAuu2009 folds
+marvela14 calls [252]
+kulazhenckof folds
+** Dealing river ** [ Jh ]
+** Summary **
+Beirnen15 shows [ Ad, Qd ]
+marvela14 shows [ 6s, Js ]
+pikejpeel shows [ 4s, Ts ]
+pikejpeel collected [ 702 ]
+pikejpeel collected [ 84 ]
+
+
+
+#Game No : 510749970
+***** 888poker Hand History for Game 510749970 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:32:04
+Table San Luis 10 Max (Play Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 2: Carozo ( 434 )
+Seat 3: ZerrAuu2009 ( 245 )
+Seat 4: maygoody ( 1,535.40 )
+Seat 6: marvela14 ( 200 )
+Seat 9: kulazhenckof ( 1,331.85 )
+Seat 10: pikejpeel ( 1,040 )
+Carozo posts small blind [1]
+ZerrAuu2009 posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 9d, Ac ]
+maygoody folds
+marvela14 folds
+kulazhenckof calls [2]
+pikejpeel calls [2]
+Carozo calls [1]
+ZerrAuu2009 raises [2]
+kulazhenckof calls [2]
+pikejpeel calls [2]
+Carozo calls [2]
+** Dealing flop ** [ 6d, 9s, 4s ]
+Carozo checks
+ZerrAuu2009 bets [2]
+kulazhenckof calls [2]
+pikejpeel calls [2]
+Carozo calls [2]
+** Dealing turn ** [ Ks ]
+Carozo checks
+ZerrAuu2009 bets [2]
+kulazhenckof calls [2]
+pikejpeel calls [2]
+Carozo calls [2]
+** Dealing river ** [ 4h ]
+Carozo checks
+ZerrAuu2009 bets [2]
+kulazhenckof folds
+pikejpeel raises [4]
+Carozo folds
+ZerrAuu2009 raises [4]
+pikejpeel calls [2]
+** Summary **
+ZerrAuu2009 shows [ 8c, Qc ]
+pikejpeel shows [ 9d, Ac ]
+pikejpeel collected [ 41.80 ]
+
+
+
+#Game No : 510750002
+***** 888poker Hand History for Game 510750002 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:33:11
+Table San Luis 10 Max (Play Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 2: Carozo ( 426 )
+Seat 3: ZerrAuu2009 ( 231 )
+Seat 4: maygoody ( 1,535.40 )
+Seat 6: marvela14 ( 200 )
+Seat 9: kulazhenckof ( 1,323.85 )
+Seat 10: pikejpeel ( 1,067.80 )
+ZerrAuu2009 posts small blind [1]
+maygoody posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 4h, Jd ]
+marvela14 calls [2]
+kulazhenckof calls [2]
+pikejpeel folds
+Carozo calls [2]
+ZerrAuu2009 raises [3]
+maygoody calls [2]
+marvela14 calls [2]
+kulazhenckof calls [2]
+Carozo calls [2]
+** Dealing flop ** [ 4d, Qh, Qs ]
+ZerrAuu2009 bets [2]
+maygoody folds
+marvela14 calls [2]
+kulazhenckof calls [2]
+Carozo calls [2]
+** Dealing turn ** [ 3s ]
+ZerrAuu2009 bets [2]
+marvela14 raises [194]
+kulazhenckof folds
+Carozo folds
+ZerrAuu2009 calls [192]
+** Dealing river ** [ 5h ]
+** Summary **
+ZerrAuu2009 shows [ 2s, As ]
+marvela14 shows [ 3c, 4c ]
+ZerrAuu2009 collected [ 412 ]
+
+
+
+#Game No : 510750036
+***** 888poker Hand History for Game 510750036 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:34:10
+Table San Luis 10 Max (Play Money)
+Seat 3 is the button
+Total number of players : 5
+Seat 2: Carozo ( 420 )
+Seat 3: ZerrAuu2009 ( 443 )
+Seat 4: maygoody ( 1,531.40 )
+Seat 9: kulazhenckof ( 1,317.85 )
+Seat 10: pikejpeel ( 1,067.80 )
+maygoody posts small blind [1]
+kulazhenckof posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 8s, Kd ]
+pikejpeel folds
+Carozo calls [2]
+ZerrAuu2009 raises [4]
+maygoody calls [3]
+kulazhenckof calls [2]
+Carozo calls [2]
+** Dealing flop ** [ 9h, Kh, 2c ]
+maygoody checks
+kulazhenckof checks
+Carozo checks
+ZerrAuu2009 bets [4]
+maygoody calls [4]
+kulazhenckof calls [4]
+Carozo calls [4]
+** Dealing turn ** [ 6d ]
+maygoody checks
+kulazhenckof checks
+Carozo checks
+ZerrAuu2009 bets [6]
+maygoody folds
+kulazhenckof folds
+Carozo calls [6]
+** Dealing river ** [ 5c ]
+Carozo checks
+ZerrAuu2009 bets [6]
+Carozo calls [6]
+** Summary **
+ZerrAuu2009 shows [ 2h, 6h ]
+Carozo mucks [ Qd, Ts ]
+ZerrAuu2009 collected [ 53.20 ]
+
+
+
+#Game No : 510750068
+***** 888poker Hand History for Game 510750068 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:35:12
+Table San Luis 10 Max (Play Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 2: Carozo ( 400 )
+Seat 3: ZerrAuu2009 ( 476.20 )
+Seat 4: maygoody ( 1,523.40 )
+Seat 9: kulazhenckof ( 1,309.85 )
+Seat 10: pikejpeel ( 1,067.80 )
+kulazhenckof posts small blind [1]
+pikejpeel posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 6s, Th ]
+Carozo calls [2]
+ZerrAuu2009 raises [4]
+maygoody folds
+kulazhenckof calls [3]
+pikejpeel folds
+Carozo calls [2]
+** Dealing flop ** [ 4d, Jd, Ac ]
+kulazhenckof checks
+Carozo checks
+ZerrAuu2009 bets [4]
+kulazhenckof folds
+Carozo calls [4]
+** Dealing turn ** [ 4h ]
+Carozo checks
+ZerrAuu2009 bets [4]
+Carozo raises [8]
+ZerrAuu2009 raises [8]
+Carozo raises [8]
+ZerrAuu2009 raises [8]
+Carozo raises [8]
+ZerrAuu2009 raises [8]
+Carozo raises [8]
+ZerrAuu2009 raises [8]
+Carozo raises [8]
+ZerrAuu2009 raises [8]
+Carozo raises [8]
+ZerrAuu2009 raises [8]
+Carozo raises [8]
+ZerrAuu2009 folds
+** Summary **
+Carozo collected [ 122 ]
+
+
+
+#Game No : 510750103
+***** 888poker Hand History for Game 510750103 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:36:14
+Table San Luis 10 Max (Play Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: neralion61 ( 200 )
+Seat 2: Carozo ( 462 )
+Seat 3: ZerrAuu2009 ( 416.20 )
+Seat 5: toAfanasyev ( 200 )
+Seat 6: marvela14 ( 200 )
+Seat 9: kulazhenckof ( 1,305.85 )
+Seat 10: pikejpeel ( 1,065.80 )
+pikejpeel posts small blind [1]
+neralion61 posts big blind [2]
+toAfanasyev posts big blind [2]
+marvela14 posts dead blind [1 + 2]
+** Dealing down cards **
+Dealt to pikejpeel [ 4c, 2h ]
+Carozo calls [2]
+ZerrAuu2009 raises [4]
+toAfanasyev calls [2]
+marvela14 folds
+kulazhenckof folds
+pikejpeel folds
+neralion61 folds
+Carozo calls [2]
+** Dealing flop ** [ 4s, Kc, Ah ]
+Carozo checks
+ZerrAuu2009 bets [6]
+toAfanasyev calls [6]
+Carozo folds
+** Dealing turn ** [ Qs ]
+ZerrAuu2009 bets [6]
+toAfanasyev calls [6]
+** Dealing river ** [ Qh ]
+ZerrAuu2009 bets [388.20]
+toAfanasyev folds
+** Summary **
+ZerrAuu2009 collected [ 39.90 ]
+
+
+
+#Game No : 510750134
+***** 888poker Hand History for Game 510750134 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:37:10
+Table San Luis 10 Max (Play Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: neralion61 ( 198 )
+Seat 2: Carozo ( 458 )
+Seat 3: ZerrAuu2009 ( 440.10 )
+Seat 5: toAfanasyev ( 184 )
+Seat 6: marvela14 ( 200 )
+Seat 9: kulazhenckof ( 1,305.85 )
+Seat 10: pikejpeel ( 1,064.80 )
+neralion61 posts small blind [1]
+Carozo posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 5c, 5s ]
+ZerrAuu2009 raises [4]
+toAfanasyev calls [4]
+marvela14 folds
+kulazhenckof folds
+pikejpeel calls [4]
+neralion61 raises [5]
+Carozo folds
+ZerrAuu2009 raises [4]
+toAfanasyev calls [4]
+pikejpeel calls [4]
+neralion61 raises [19]
+ZerrAuu2009 raises [34]
+toAfanasyev calls [34]
+pikejpeel raises [192]
+neralion61 calls [173]
+ZerrAuu2009 folds
+toAfanasyev calls [142]
+** Dealing flop ** [ Kh, 2s, Ad ]
+** Dealing turn ** [ 5d ]
+** Dealing river ** [ Ac ]
+** Summary **
+neralion61 shows [ 9c, 9s ]
+toAfanasyev shows [ Kc, Jh ]
+pikejpeel shows [ 5c, 5s ]
+pikejpeel collected [ 592 ]
+pikejpeel collected [ 28 ]
+
+
+
+#Game No : 510750172
+***** 888poker Hand History for Game 510750172 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:38:19
+Table San Luis 10 Max (Play Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 2: Carozo ( 456 )
+Seat 3: ZerrAuu2009 ( 398.10 )
+Seat 4: maygoody ( 1,523.40 )
+Seat 6: marvela14 ( 200 )
+Seat 7: Baruke13 ( 16 )
+Seat 9: kulazhenckof ( 1,305.85 )
+Seat 10: pikejpeel ( 1,486.80 )
+ZerrAuu2009 posts small blind [1]
+maygoody posts big blind [2]
+Baruke13 posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ Qc, 4d ]
+marvela14 folds
+Baruke13 checks
+kulazhenckof calls [2]
+pikejpeel calls [2]
+Carozo calls [2]
+ZerrAuu2009 folds
+maygoody checks
+** Dealing flop ** [ Td, Ad, 9h ]
+maygoody checks
+Baruke13 checks
+kulazhenckof checks
+pikejpeel checks
+Carozo checks
+** Dealing turn ** [ 2h ]
+maygoody checks
+Baruke13 checks
+kulazhenckof checks
+pikejpeel checks
+Carozo checks
+** Dealing river ** [ 4c ]
+maygoody checks
+Baruke13 checks
+kulazhenckof bets [154]
+pikejpeel folds
+Carozo folds
+maygoody folds
+Baruke13 folds
+** Summary **
+kulazhenckof collected [ 10.45 ]
+
+
+
+#Game No : 510750222
+***** 888poker Hand History for Game 510750222 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:39:44
+Table San Luis 10 Max (Play Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 2: Carozo ( 454 )
+Seat 3: ZerrAuu2009 ( 397.10 )
+Seat 4: maygoody ( 1,521.40 )
+Seat 5: asgaines1982 ( 200 )
+Seat 6: marvela14 ( 200 )
+Seat 7: Baruke13 ( 14 )
+Seat 8: sotnik999 ( 192 )
+Seat 9: kulazhenckof ( 1,314.30 )
+Seat 10: pikejpeel ( 1,484.80 )
+maygoody posts small blind [1]
+asgaines1982 posts big blind [2]
+sotnik999 posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 4h, 7d ]
+marvela14 calls [2]
+Baruke13 calls [2]
+sotnik999 checks
+kulazhenckof calls [2]
+pikejpeel folds
+Carozo calls [2]
+ZerrAuu2009 raises [4]
+maygoody calls [3]
+asgaines1982 folds
+marvela14 calls [2]
+Baruke13 calls [2]
+sotnik999 folds
+kulazhenckof calls [2]
+Carozo calls [2]
+** Dealing flop ** [ Qc, Qs, 2d ]
+maygoody checks
+marvela14 checks
+Baruke13 bets [10]
+kulazhenckof calls [10]
+Carozo folds
+ZerrAuu2009 calls [10]
+maygoody calls [10]
+marvela14 folds
+** Dealing turn ** [ 8d ]
+maygoody checks
+kulazhenckof checks
+ZerrAuu2009 bets [2]
+maygoody calls [2]
+kulazhenckof calls [2]
+** Dealing river ** [ 8s ]
+maygoody checks
+kulazhenckof checks
+ZerrAuu2009 bets [2]
+maygoody folds
+kulazhenckof calls [2]
+** Summary **
+ZerrAuu2009 shows [ 4s, Ah ]
+Baruke13 shows [ Qd, Th ]
+kulazhenckof mucks [ Kd, Tc ]
+Baruke13 collected [ 64.60 ]
+ZerrAuu2009 collected [ 9.50 ]
+
+
+
+#Game No : 510750281
+***** 888poker Hand History for Game 510750281 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:41:05
+Table San Luis 10 Max (Play Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 2: Carozo ( 450 )
+Seat 3: ZerrAuu2009 ( 388.60 )
+Seat 4: maygoody ( 1,505.40 )
+Seat 6: marvela14 ( 200 )
+Seat 7: Baruke13 ( 64.60 )
+Seat 8: sotnik999 ( 190 )
+Seat 9: kulazhenckof ( 1,296.30 )
+Seat 10: pikejpeel ( 1,484.80 )
+marvela14 posts small blind [1]
+Baruke13 posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 6d, 5h ]
+sotnik999 raises [190]
+kulazhenckof folds
+pikejpeel folds
+Carozo folds
+ZerrAuu2009 folds
+maygoody calls [190]
+marvela14 folds
+Baruke13 calls [62.60]
+** Dealing flop ** [ 4d, 9d, 9h ]
+** Dealing turn ** [ Ah ]
+** Dealing river ** [ Ac ]
+** Summary **
+maygoody shows [ Jd, Qs ]
+Baruke13 shows [ Ks, 4s ]
+sotnik999 shows [ 8h, Jc ]
+Baruke13 collected [ 190.80 ]
+maygoody collected [ 250.80 ]
+
+
+
+#Game No : 510750308
+***** 888poker Hand History for Game 510750308 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:41:47
+Table San Luis 10 Max (Play Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: Carozo ( 450 )
+Seat 3: ZerrAuu2009 ( 388.60 )
+Seat 4: maygoody ( 1,566.20 )
+Seat 6: marvela14 ( 200 )
+Seat 7: Baruke13 ( 190.80 )
+Seat 9: kulazhenckof ( 1,296.30 )
+Seat 10: pikejpeel ( 1,484.80 )
+Baruke13 posts small blind [1]
+kulazhenckof posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 9h, Js ]
+pikejpeel folds
+Carozo calls [2]
+ZerrAuu2009 raises [4]
+maygoody calls [4]
+marvela14 calls [4]
+Baruke13 raises [18]
+kulazhenckof folds
+Carozo folds
+ZerrAuu2009 folds
+maygoody calls [15]
+marvela14 folds
+** Dealing flop ** [ Td, 5c, Jc ]
+Baruke13 bets [50]
+maygoody calls [50]
+** Dealing turn ** [ Qs ]
+Baruke13 checks
+maygoody bets [458]
+Baruke13 calls [121.80]
+** Dealing river ** [ 6d ]
+** Summary **
+maygoody shows [ As, Kc ]
+Baruke13 shows [ Jh, Ac ]
+maygoody collected [ 389.60 ]
+
+
+
+#Game No : 510750361
+***** 888poker Hand History for Game 510750361 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:43:03
+Table San Luis 10 Max (Play Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Reaper_Treze ( 200 )
+Seat 2: Carozo ( 448 )
+Seat 3: ZerrAuu2009 ( 384.60 )
+Seat 4: maygoody ( 1,765 )
+Seat 9: kulazhenckof ( 1,294.30 )
+Seat 10: pikejpeel ( 1,484.80 )
+pikejpeel posts small blind [1]
+Reaper_Treze posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 5h, 4h ]
+Carozo calls [2]
+ZerrAuu2009 folds
+maygoody calls [2]
+kulazhenckof calls [2]
+pikejpeel calls [1]
+Reaper_Treze checks
+** Dealing flop ** [ Ac, Jc, 7h ]
+pikejpeel checks
+Reaper_Treze checks
+Carozo checks
+maygoody checks
+kulazhenckof bets [124]
+pikejpeel folds
+Reaper_Treze folds
+Carozo folds
+maygoody calls [124]
+** Dealing turn ** [ 2c ]
+maygoody checks
+kulazhenckof bets [202]
+maygoody calls [202]
+** Dealing river ** [ Td ]
+maygoody checks
+kulazhenckof bets [128]
+maygoody folds
+** Summary **
+kulazhenckof did not show his hand
+kulazhenckof collected [ 658 ]
+
+
+
+#Game No : 510750405
+***** 888poker Hand History for Game 510750405 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:44:12
+Table San Luis 10 Max (Play Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 1: Reaper_Treze ( 198 )
+Seat 2: Carozo ( 446 )
+Seat 3: ZerrAuu2009 ( 384.60 )
+Seat 4: maygoody ( 1,437 )
+Seat 9: kulazhenckof ( 1,624.30 )
+Seat 10: pikejpeel ( 1,482.80 )
+Reaper_Treze posts small blind [1]
+Carozo posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ Tc, 4d ]
+ZerrAuu2009 raises [4]
+maygoody calls [4]
+kulazhenckof calls [4]
+pikejpeel folds
+Reaper_Treze calls [3]
+Carozo folds
+** Dealing flop ** [ 8h, 6d, Jc ]
+Reaper_Treze checks
+ZerrAuu2009 bets [2]
+maygoody calls [2]
+kulazhenckof calls [2]
+Reaper_Treze folds
+** Dealing turn ** [ Ks ]
+ZerrAuu2009 bets [2]
+maygoody calls [2]
+kulazhenckof folds
+** Dealing river ** [ 3d ]
+ZerrAuu2009 bets [2]
+maygoody folds
+** Summary **
+ZerrAuu2009 did not show his hand
+ZerrAuu2009 collected [ 26.60 ]
+
+
+
+#Game No : 510750438
+***** 888poker Hand History for Game 510750438 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:45:12
+Table San Luis 10 Max (Play Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: Reaper_Treze ( 194 )
+Seat 3: ZerrAuu2009 ( 403.20 )
+Seat 4: maygoody ( 1,429 )
+Seat 9: kulazhenckof ( 1,618.30 )
+Seat 10: pikejpeel ( 1,482.80 )
+ZerrAuu2009 posts small blind [1]
+maygoody posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ Jc, 2s ]
+kulazhenckof folds
+pikejpeel folds
+Reaper_Treze folds
+ZerrAuu2009 raises [3]
+maygoody calls [2]
+** Dealing flop ** [ 7h, 3d, 9h ]
+ZerrAuu2009 bets [2]
+maygoody calls [2]
+** Dealing turn ** [ Jd ]
+ZerrAuu2009 bets [2]
+maygoody calls [2]
+** Dealing river ** [ 9c ]
+ZerrAuu2009 bets [2]
+maygoody calls [2]
+** Summary **
+ZerrAuu2009 shows [ Tc, 5c ]
+maygoody shows [ Qd, 3h ]
+maygoody collected [ 19 ]
+
+
+
+#Game No : 510750466
+***** 888poker Hand History for Game 510750466 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:45:54
+Table San Luis 10 Max (Play Money)
+Seat 3 is the button
+Total number of players : 5
+Seat 1: Reaper_Treze ( 194 )
+Seat 3: ZerrAuu2009 ( 393.20 )
+Seat 4: maygoody ( 1,438 )
+Seat 9: kulazhenckof ( 1,618.30 )
+Seat 10: pikejpeel ( 1,482.80 )
+maygoody posts small blind [1]
+kulazhenckof posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 8h, Ac ]
+pikejpeel calls [2]
+Reaper_Treze folds
+ZerrAuu2009 raises [4]
+maygoody calls [3]
+kulazhenckof calls [2]
+pikejpeel calls [2]
+** Dealing flop ** [ 8c, 5c, 7s ]
+maygoody checks
+kulazhenckof checks
+pikejpeel checks
+ZerrAuu2009 bets [2]
+maygoody calls [2]
+kulazhenckof calls [2]
+pikejpeel calls [2]
+** Dealing turn ** [ Qh ]
+maygoody checks
+kulazhenckof checks
+pikejpeel bets [2]
+ZerrAuu2009 raises [4]
+maygoody folds
+kulazhenckof calls [4]
+pikejpeel calls [2]
+** Dealing river ** [ Ah ]
+kulazhenckof checks
+pikejpeel bets [2]
+ZerrAuu2009 raises [4]
+kulazhenckof folds
+pikejpeel raises [46]
+ZerrAuu2009 folds
+** Summary **
+pikejpeel collected [ 41.80 ]
+
+
+
+#Game No : 510750506
+***** 888poker Hand History for Game 510750506 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:47:05
+Table San Luis 10 Max (Play Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 3: ZerrAuu2009 ( 379.20 )
+Seat 4: maygoody ( 1,432 )
+Seat 9: kulazhenckof ( 1,608.30 )
+Seat 10: pikejpeel ( 1,510.60 )
+kulazhenckof posts small blind [1]
+pikejpeel posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 4h, Ah ]
+ZerrAuu2009 raises [4]
+maygoody calls [4]
+kulazhenckof calls [3]
+pikejpeel calls [2]
+** Dealing flop ** [ Kc, Th, 2s ]
+kulazhenckof checks
+pikejpeel checks
+ZerrAuu2009 bets [2]
+maygoody folds
+kulazhenckof folds
+pikejpeel calls [2]
+** Dealing turn ** [ 4s ]
+pikejpeel checks
+ZerrAuu2009 bets [2]
+pikejpeel calls [2]
+** Dealing river ** [ Qh ]
+pikejpeel checks
+ZerrAuu2009 bets [6]
+pikejpeel calls [6]
+** Summary **
+ZerrAuu2009 shows [ 6s, Qs ]
+pikejpeel mucks [ 4h, Ah ]
+ZerrAuu2009 collected [ 34.20 ]
+
+
+
+#Game No : 510750542
+***** 888poker Hand History for Game 510750542 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:48:02
+Table San Luis 10 Max (Play Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 3: ZerrAuu2009 ( 399.40 )
+Seat 4: maygoody ( 1,428 )
+Seat 5: cmedantie ( 200 )
+Seat 9: kulazhenckof ( 1,604.30 )
+Seat 10: pikejpeel ( 1,496.60 )
+pikejpeel posts small blind [1]
+ZerrAuu2009 posts big blind [2]
+cmedantie posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 4d, Td ]
+maygoody calls [2]
+cmedantie checks
+kulazhenckof folds
+pikejpeel calls [1]
+ZerrAuu2009 checks
+** Dealing flop ** [ Ts, 2h, 7c ]
+pikejpeel checks
+ZerrAuu2009 bets [2]
+maygoody calls [2]
+cmedantie calls [2]
+pikejpeel raises [6]
+ZerrAuu2009 raises [8]
+maygoody calls [8]
+cmedantie calls [8]
+pikejpeel calls [4]
+** Dealing turn ** [ Jh ]
+pikejpeel checks
+ZerrAuu2009 bets [2]
+maygoody calls [2]
+cmedantie calls [2]
+pikejpeel calls [2]
+** Dealing river ** [ Qh ]
+pikejpeel checks
+ZerrAuu2009 bets [2]
+maygoody folds
+cmedantie raises [32]
+pikejpeel folds
+ZerrAuu2009 folds
+** Summary **
+cmedantie collected [ 57 ]
+
+
+
+#Game No : 510750582
+***** 888poker Hand History for Game 510750582 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:49:09
+Table San Luis 10 Max (Play Money)
+Seat 10 is the button
+Total number of players : 5
+Seat 3: ZerrAuu2009 ( 383.40 )
+Seat 4: maygoody ( 1,414 )
+Seat 5: cmedantie ( 241 )
+Seat 9: kulazhenckof ( 1,604.30 )
+Seat 10: pikejpeel ( 1,482.60 )
+ZerrAuu2009 posts small blind [1]
+maygoody posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ Qs, 2c ]
+cmedantie folds
+kulazhenckof calls [2]
+pikejpeel calls [2]
+ZerrAuu2009 calls [1]
+maygoody checks
+** Dealing flop ** [ 6d, Js, Qd ]
+ZerrAuu2009 checks
+maygoody checks
+kulazhenckof checks
+pikejpeel bets [2]
+ZerrAuu2009 calls [2]
+maygoody folds
+kulazhenckof calls [2]
+** Dealing turn ** [ 7c ]
+ZerrAuu2009 checks
+kulazhenckof checks
+pikejpeel bets [2]
+ZerrAuu2009 calls [2]
+kulazhenckof calls [2]
+** Dealing river ** [ Kh ]
+ZerrAuu2009 checks
+kulazhenckof bets [76]
+pikejpeel calls [76]
+ZerrAuu2009 folds
+** Summary **
+kulazhenckof shows [ Ks, 2s ]
+pikejpeel mucks [ Qs, 2c ]
+kulazhenckof collected [ 168 ]
+
+
+
+#Game No : 510750621
+***** 888poker Hand History for Game 510750621 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:50:05
+Table San Luis 10 Max (Play Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 2: Carozo ( 444 )
+Seat 3: ZerrAuu2009 ( 377.40 )
+Seat 4: maygoody ( 1,412 )
+Seat 5: cmedantie ( 241 )
+Seat 6: .Las.Vegas. ( 60 )
+Seat 9: kulazhenckof ( 1,690.30 )
+Seat 10: pikejpeel ( 1,400.60 )
+maygoody posts small blind [1]
+cmedantie posts big blind [2]
+.Las.Vegas. posts big blind [2]
+Carozo posts dead blind [1 + 2]
+** Dealing down cards **
+Dealt to pikejpeel [ 2s, Qc ]
+.Las.Vegas. raises [58]
+kulazhenckof folds
+pikejpeel folds
+Carozo folds
+ZerrAuu2009 calls [60]
+maygoody calls [59]
+cmedantie calls [58]
+** Dealing flop ** [ 9d, Td, 4c ]
+maygoody checks
+cmedantie checks
+ZerrAuu2009 bets [2]
+maygoody calls [2]
+cmedantie raises [126.50]
+ZerrAuu2009 raises [249]
+maygoody folds
+cmedantie calls [54.50]
+** Dealing turn ** [ 2d ]
+** Dealing river ** [ 7s ]
+** Summary **
+ZerrAuu2009 shows [ 9h, Ks ]
+cmedantie shows [ As, Js ]
+.Las.Vegas. shows [ Tc, 4d ]
+.Las.Vegas. collected [ 239 ]
+ZerrAuu2009 collected [ 364 ]
+
+
+
+#Game No : 510750652
+***** 888poker Hand History for Game 510750652 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:50:58
+Table San Luis 10 Max (Play Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 2: Carozo ( 441 )
+Seat 3: ZerrAuu2009 ( 500.40 )
+Seat 4: maygoody ( 1,350 )
+Seat 9: kulazhenckof ( 1,690.30 )
+Seat 10: pikejpeel ( 1,400.60 )
+kulazhenckof posts small blind [1]
+pikejpeel posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ 4s, Tc ]
+Carozo calls [2]
+ZerrAuu2009 folds
+maygoody calls [2]
+kulazhenckof calls [1]
+pikejpeel checks
+** Dealing flop ** [ 9c, 6d, 6h ]
+kulazhenckof checks
+pikejpeel checks
+Carozo checks
+maygoody checks
+** Dealing turn ** [ 8d ]
+kulazhenckof checks
+pikejpeel checks
+Carozo checks
+maygoody bets [554]
+kulazhenckof folds
+pikejpeel folds
+Carozo folds
+** Summary **
+maygoody collected [ 7.60 ]
+
+
+
+#Game No : 510750678
+***** 888poker Hand History for Game 510750678 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:51:40
+Table San Luis 10 Max (Play Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 2: Carozo ( 439 )
+Seat 3: ZerrAuu2009 ( 500.40 )
+Seat 4: maygoody ( 1,355.60 )
+Seat 8: dubrobderry ( 200 )
+Seat 9: kulazhenckof ( 1,688.30 )
+Seat 10: pikejpeel ( 1,398.60 )
+pikejpeel posts small blind [1]
+Carozo posts big blind [2]
+dubrobderry posts big blind [2]
+** Dealing down cards **
+Dealt to pikejpeel [ Ks, Jd ]
+ZerrAuu2009 raises [4]
+maygoody calls [4]
+dubrobderry calls [2]
+kulazhenckof calls [4]
+pikejpeel calls [3]
+Carozo calls [2]
+** Dealing flop ** [ Tc, 2h, Qh ]
+pikejpeel bets [2]
+Carozo calls [2]
+ZerrAuu2009 raises [4]
+maygoody folds
+dubrobderry folds
+kulazhenckof calls [4]
+pikejpeel calls [2]
+Carozo calls [2]
+** Dealing turn ** [ 8s ]
+pikejpeel bets [2]
+Carozo calls [2]
+ZerrAuu2009 raises [4]
+kulazhenckof calls [4]
+pikejpeel calls [2]
+Carozo calls [2]
+** Dealing river ** [ 6c ]
+pikejpeel checks
+Carozo checks
+ZerrAuu2009 bets [2]
+kulazhenckof calls [2]
+pikejpeel folds
+Carozo calls [2]
+** Summary **
+ZerrAuu2009 shows [ 7d, Qs ]
+kulazhenckof mucks [ Jh, Td ]
+Carozo mucks [ 2d, As ]
+ZerrAuu2009 collected [ 58.90 ]
+
+
+
+#Game No : 510750720
+***** 888poker Hand History for Game 510750720 *****
+1/2 Blinds No Limit Holdem - *** 19 09 2016 23:52:57
+Table San Luis 10 Max (Play Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: Carozo ( 425 )
+Seat 3: ZerrAuu2009 ( 545.30 )
+Seat 4: maygoody ( 1,351.60 )
+Seat 5: cmedantie ( 200 )
+Seat 7: tenders96 ( 200 )
+Seat 8: dubrobderry ( 196 )
+Seat 9: kulazhenckof ( 1,674.30 )
+Seat 10: pikejpeel ( 1,386.60 )
+Carozo posts small blind [1]
+ZerrAuu2009 posts big blind [2]
+cmedantie posts dead blind [1 + 0]
+tenders96 posts dead blind [1 + 2]
+** Dealing down cards **
+Dealt to pikejpeel [ Th, 8d ]
+maygoody calls [2]
+cmedantie raises [4]
+tenders96 calls [2]
+dubrobderry calls [4]
+kulazhenckof calls [4]
+pikejpeel folds
+Carozo calls [3]
+ZerrAuu2009 folds
+maygoody calls [2]
+** Dealing flop ** [ As, 8c, Qc ]
+Carozo checks
+maygoody checks
+cmedantie checks
+tenders96 checks
+dubrobderry bets [27]
+kulazhenckof folds
+Carozo folds
+maygoody calls [27]
+cmedantie calls [27]
+tenders96 folds
+** Dealing turn ** [ 5d ]
+maygoody checks
+cmedantie checks
+dubrobderry checks
+** Dealing river ** [ 9d ]
+maygoody checks
+cmedantie checks
+dubrobderry bets [165]
+maygoody folds
+cmedantie folds
+** Summary **
+dubrobderry did not show his hand
+dubrobderry collected [ 104 ]
+
+
+
