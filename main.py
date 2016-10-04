@@ -3,14 +3,16 @@ import sys
 from collections import OrderedDict
 
 class Player(object):
-    def __init__(self):
-        self._name = None
-        self._initialStack = None
+    def __init__(self, name, position, stack):
+        self._name = name
+        self._position = position
+        self._initialStack = stack
         self._preFlop = None
         self._flop = None
         self._turn = None
         self._river = None
         self._cards = None
+        print("Created new player: " + self._name + " at position: " + str(self._position) + " and initial stack: " + str(self._initialStack))
 
 class Game(object):
     def __init__(self, gameStrings):
@@ -18,10 +20,33 @@ class Game(object):
         self._gameNumber = None
         self._table = None
         self._buttonSeat = None
-        self._players = 9 * [ Player ]
+        self._players = list()
 
     def parseThisGame(self):
-        print("TODO implement me")
+        gameNumberString = [s for s in self._gameStrings if "#Game No :" in s]
+        if (len(gameNumberString) == 1) :
+            self._gameNumber = gameNumberString[0].split(" ")[3]
+        print("Game number : " + str(self._gameNumber))
+
+        buttonString = [s for s in self._gameStrings if "is the button" in s]
+        if (len(buttonString) == 1) :
+            self._buttonSeat = buttonString[0].split(" ")[1]
+        print("Button seat : " + str(self._buttonSeat))
+
+        tableString = [s for s in self._gameStrings if "Table " in s]
+        if (len(tableString) == 1) :
+            self._table = tableString[0].split(" ")[1]
+        print("Table name : " + str(self._table))
+
+        seatString = [s for s in self._gameStrings if "Seat " and " ( " in s]
+        for eachSeat in seatString:
+            number = eachSeat.split(" ")[1].split(":")[0]
+            name = eachSeat.split(" ")[2]
+            stack = eachSeat.split(" ")[4]
+            print(stack)
+            self._players.append(Player(name, number, stack))
+
+        #TODO parse blinds
 
 ################## main ##################
 
@@ -48,14 +73,21 @@ lst = dat.splitlines()
 for each in odGameNumber:
     current = each
     if ((previous != None) and (current != None)):
-        someGame = Game(lst[previous: current - 1])
+        someGame = Game(lst[previous - 1: current - 1])
         gamesList.append(someGame)
     previous = each
 
 gamesList.append(Game(lst[previous: num]))
-for eachGame in gamesList:
-    print(eachGame._gameStrings)
-    print("===============================")
+#for eachGame in gamesList:
+#    print(eachGame._gameStrings)
+#    print("===============================")
+print(gamesList[0]._gameStrings)
+gamesList[0].parseThisGame()
+print(gamesList[0]._players[1]._name)
+
+for eachOne in gamesList[0]._players:
+    print(eachOne._name)
+
 
 
 ################## sample 888 poker hand history ##################
