@@ -2,10 +2,23 @@
 import sys
 from collections import OrderedDict
 
+class Player(object):
+    def __init__(self):
+        self._name = None
+        self._initialStack = None
+        self._preFlop = None
+        self._flop = None
+        self._turn = None
+        self._river = None
+        self._cards = None
+
 class Game(object):
-    def __init__(self, startingLine, endingLine):
-        self.fStart = startingLine
-        self.fEnd = endingLine
+    def __init__(self, gameStrings):
+        self._gameStrings = gameStrings
+        self._gameNumber = None
+        self._table = None
+        self._buttonSeat = None
+        self._players = 9 * [ Player ]
 
     def parseThisGame(self):
         print("TODO implement me")
@@ -25,16 +38,25 @@ with open("./888poker-many-hands.txt") as myFile:
 odGameNumber = OrderedDict(sorted(gameNumber.items()))
 gamesList = list()
 previous = None
+
+inp = "./888poker-many-hands.txt"
+data = open(inp)
+dat = data.read()
+lst = dat.splitlines()
+#print(lst[gamesList[0].fStart: gamesList[0].fEnd])
+
 for each in odGameNumber:
     current = each
     if ((previous != None) and (current != None)):
-        someGame = Game(previous, current - 1)
+        someGame = Game(lst[previous: current - 1])
         gamesList.append(someGame)
     previous = each
 
-gamesList.append(Game(previous, num))
+gamesList.append(Game(lst[previous: num]))
 for eachGame in gamesList:
-    print("Game starts in " + str(eachGame.fStart) + " and ends in " + str(eachGame.fEnd) + " line.")
+    print(eachGame._gameStrings)
+    print("===============================")
+
 
 ################## sample 888 poker hand history ##################
 
